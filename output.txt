@@ -1,0 +1,1710 @@
+Fireball		Staff  	weapon	Damage: 314
+Fireball		Staff  	weapon	Area of effect: Circle 120
+Lava Font		Staff  	weapon	Damage: 296
+Lava Font		Staff  	weapon	
+Lava Font		Staff  	weapon	
+Lava Font		Staff  	weapon	Combo Field: Fire
+Flame Burst		Staff  	weapon	Burning: 5 s
+Flame Burst		Staff  	weapon	
+Burning Retreat		Staff  	weapon	Damage: 37
+Burning Retreat		Staff  	weapon	
+Burning Retreat		Staff  	weapon	Burning: 1 s
+Meteor Shower		Staff  	weapon	Damage: 481
+Meteor Shower		Staff  	weapon	
+Meteor Shower		Staff  	weapon	
+Water Blast		Staff  	weapon	Damage: 111
+Water Blast		Staff  	weapon	Healing: 370
+Water Blast		Staff  	weapon	
+Ice Spike		Staff  	weapon	Damage: 554
+Ice Spike		Staff  	weapon	Vulnerability: 10 s
+Ice Spike		Staff  	weapon	
+Geyser		Staff  	weapon	Healing: 808
+Geyser		Staff  	weapon	
+Geyser		Staff  	weapon	
+Geyser		Staff  	weapon	Combo Field: Water
+Frozen Ground		Staff  	weapon	Chilled: 2 s
+Frozen Ground		Staff  	weapon	
+Frozen Ground		Staff  	weapon	
+Frozen Ground		Staff  	weapon	Combo Field: Ice
+Healing Rain		Staff  	weapon	Regeneration: 4 s
+Healing Rain		Staff  	weapon	
+Healing Rain		Staff  	weapon	
+Healing Rain		Staff  	weapon	Combo Field: Water
+Chain Lightning		Staff  	weapon	Damage: 203
+Chain Lightning		Staff  	weapon	
+Lightning Surge		Staff  	weapon	Damage: 481
+Lightning Surge		Staff  	weapon	Blind: 5 s
+Lightning Surge		Staff  	weapon	
+Gust		Staff  	weapon	Knockback: 400
+Windborne Speed		Staff  	weapon	Swiftness: 10 s
+Static Field (staff skill)		Staff  	weapon	Damage: 185
+Static Field (staff skill)		Staff  	weapon	
+Static Field (staff skill)		Staff  	weapon	Stun: 2 s
+Static Field (staff skill)		Staff  	weapon	
+Static Field (staff skill)		Staff  	weapon	Combo Field: Lightning
+Stoning		Staff  	weapon	Damage: 185
+Stoning		Staff  	weapon	Weakness: 1 s
+Stoning		Staff  	weapon	Combo Finisher: Projectile
+Eruption		Staff  	weapon	Damage: 462
+Eruption		Staff  	weapon	Bleeding: 12 s
+Eruption		Staff  	weapon	
+Eruption		Staff  	weapon	Combo Finisher: Blast
+Unsteady Ground		Staff  	weapon	Damage: 37
+Unsteady Ground		Staff  	weapon	Crippled: 2 s
+Shockwave		Staff  	weapon	Damage: 190
+Shockwave		Staff  	weapon	Bleeding: 20 s
+Shockwave		Staff  	weapon	Immobilized: 2 s
+Shockwave		Staff  	weapon	Combo Finisher: Projectile
+Flamestrike		Scepter  	weapon	Burning: 2 s
+Flamestrike		Scepter  	weapon	Damage: 101
+Dragon's Tooth		Scepter  	weapon	Damage: 756
+Dragon's Tooth		Scepter  	weapon	Burning: 3 s
+Dragon's Tooth		Scepter  	weapon	
+Dragon's Tooth		Scepter  	weapon	Combo Finisher: Blast
+Phoenix		Scepter  	weapon	Damage: 252
+Phoenix		Scepter  	weapon	Explosion damage: 571
+Phoenix		Scepter  	weapon	
+Phoenix		Scepter  	weapon	Vigor: 10 s
+Phoenix		Scepter  	weapon	Combo Finisher: Blast
+Ice Shards		Scepter  	weapon	Damage (3x): 180
+Shatterstone		Scepter  	weapon	Damage: 252
+Shatterstone		Scepter  	weapon	Vulnerability: 15 s
+Shatterstone		Scepter  	weapon	
+Water Trident		Scepter  	weapon	Damage: 168
+Water Trident		Scepter  	weapon	Healing: 1,448
+Water Trident		Scepter  	weapon	
+Arc Lightning		Scepter  	weapon	Stage 1 damage: 30
+Arc Lightning		Scepter  	weapon	Stage 2 damage: 60
+Arc Lightning		Scepter  	weapon	Stage 3 damage: 91
+Arc Lightning		Scepter  	weapon	
+Lightning Strike		Scepter  	weapon	Damage: 403
+Blinding Flash		Scepter  	weapon	Blind: 6 s
+Stone Shards		Scepter  	weapon	Damage (3x): 150
+Stone Shards		Scepter  	weapon	Bleeding: 6 s
+Stone Shards		Scepter  	weapon	Combo Finisher: Projectile (20% chance)
+Hurl		Scepter  	weapon	Damage: 101
+Hurl		Scepter  	weapon	Combo Finisher: Projectile
+Dust Devil		Scepter  	weapon	Damage: 134
+Dust Devil		Scepter  	weapon	Blind: 10 s
+Dragon's Claw		Main hand dagger  	weapon	Damage per projectile: 126
+Drake's Breath		Main hand dagger  	weapon	Damage (4x): 672
+Drake's Breath		Main hand dagger  	weapon	Burning: 3 s
+Burning Speed		Main hand dagger  	weapon	Fire wall damage: 34
+Burning Speed		Main hand dagger  	weapon	
+Burning Speed		Main hand dagger  	weapon	Burning: 1 s
+Burning Speed		Main hand dagger  	weapon	
+Burning Speed		Main hand dagger  	weapon	Blast damage: 672
+Burning Speed		Main hand dagger  	weapon	Combo Field: Fire
+Ring of Fire		Off-hand dagger  	weapon	Damage: 417
+Ring of Fire		Off-hand dagger  	weapon	Burning: 5 s
+Ring of Fire		Off-hand dagger  	weapon	
+Ring of Fire		Off-hand dagger  	weapon	
+Fire Grab		Off-hand dagger  	weapon	Damage: 588
+Fire Grab		Off-hand dagger  	weapon	Damage vs. Burning: 941
+Vapor Blade		Main hand dagger  	weapon	Damage: 111
+Vapor Blade		Main hand dagger  	weapon	Vulnerability: 6 s
+Cone of Cold		Main hand dagger  	weapon	Damage: 168
+Cone of Cold		Main hand dagger  	weapon	Healing: 740
+Frozen Burst		Main hand dagger  	weapon	Damage: 140
+Frozen Burst		Main hand dagger  	weapon	Chilled: 3 s
+Frozen Burst		Main hand dagger  	weapon	
+Frost Aura		Off-hand dagger  	weapon	
+Cleansing Wave		Off-hand dagger  	weapon	Healing: 1,302
+Lightning Whip		Main hand dagger  	weapon	Damage: 235
+Lightning Touch		Main hand dagger  	weapon	Damage: 202
+Lightning Touch		Main hand dagger  	weapon	Weakness: 5 s
+Shocking Aura		Main hand dagger  	weapon	
+Ride the Lightning		Off-hand dagger  	weapon	Damage: 336
+Ride the Lightning		Off-hand dagger  	weapon	
+Updraft		Off-hand dagger  	weapon	Swiftness: 10 s
+Updraft		Off-hand dagger  	weapon	Blowout: 200
+Impale (elementalist skill)		Main hand dagger  	weapon	Damage: 168
+Impale (elementalist skill)		Main hand dagger  	weapon	Bleeding: 8 s
+Ring of Earth		Main hand dagger  	weapon	Damage: 417
+Ring of Earth		Main hand dagger  	weapon	Bleeding: 12 s
+Magnetic Grasp		Main hand dagger  	weapon	Damage: 139
+Magnetic Grasp		Main hand dagger  	weapon	Immobilized: 2 s
+Earthquake		Off-hand dagger  	weapon	Damage: 336
+Earthquake		Off-hand dagger  	weapon	Knockdown: 2 s
+Earthquake		Off-hand dagger  	weapon	
+Churning Earth		Off-hand dagger  	weapon	Damage: 1,092
+Churning Earth		Off-hand dagger  	weapon	Crippled: 1 s
+Churning Earth		Off-hand dagger  	weapon	Bleeding: 8 s
+Churning Earth		Off-hand dagger  	weapon	
+Flamewall		Focus  	weapon	Damage: 95
+Flamewall		Focus  	weapon	
+Flamewall		Focus  	weapon	Burning: 1 s
+Flamewall		Focus  	weapon	Combo Field: Fire
+Fire Shield		Focus  	weapon	
+Freezing Gust		Focus  	weapon	Damage: 79
+Freezing Gust		Focus  	weapon	Chilled: 3 s
+Comet		Focus  	weapon	Damage: 239
+Comet		Focus  	weapon	Daze: 2 s
+Comet		Focus  	weapon	
+Comet		Focus  	weapon	Combo Finisher: Blast
+Swirling Winds		Focus  	weapon	
+Gale		Focus  	weapon	Knockdown: 2 s
+Magnetic Wave		Focus  	weapon	Damage: 314
+Magnetic Wave		Focus  	weapon	
+Magnetic Wave		Focus  	weapon	
+Magma Orb		Trident  	weapon	Damage: 67
+Magma Orb		Trident  	weapon	
+Boil		Trident  	weapon	Damage: 174
+Boil		Trident  	weapon	
+Boil		Trident  	weapon	
+Steam		Trident  	weapon	Damage: 87
+Steam		Trident  	weapon	Blind: 5 s
+Lava Chains		Trident  	weapon	Damage: 175
+Lava Chains		Trident  	weapon	Crippled: 5 s
+Heat Wave		Trident  	weapon	Vigor: 5 s
+Heat Wave		Trident  	weapon	Burning: 3 s
+Water Missile		Trident  	weapon	Damage: 134
+Ice Globe		Trident  	weapon	Projectile damage: 347
+Ice Globe		Trident  	weapon	Detonation damage: 694
+Ice Globe		Trident  	weapon	
+Ice Wall		Trident  	weapon	
+Ice Wall		Trident  	weapon	Damage: 672
+Ice Wall		Trident  	weapon	
+Ice Wall Detonate		Trident  	weapon	Damage: 672
+Undercurrent		Trident  	weapon	Damage: 168
+Undercurrent		Trident  	weapon	Regeneration: 5 s
+Tidal Wave		Trident  	weapon	Damage: 352
+Tidal Wave		Trident  	weapon	Wave damage: 528
+Tidal Wave		Trident  	weapon	Healing: 325
+Tidal Wave		Trident  	weapon	
+Forked Lightning		Trident  	weapon	Damage: 101
+Electrocute		Trident  	weapon	Damage: 278
+Electrocute		Trident  	weapon	
+Air Pocket		Trident  	weapon	Damage: 262
+Air Bubble		Trident  	weapon	Float: 2 s
+Lightning Cage		Trident  	weapon	Damage: 84
+Lightning Cage		Trident  	weapon	
+Lightning Cage		Trident  	weapon	Stun: 1 s
+Lightning Cage		Trident  	weapon	
+Rock Blade		Trident  	weapon	Damage: 17
+Rock Blade		Trident  	weapon	Bleeding: 1 s
+Rock Blade		Trident  	weapon	
+Rock Spray		Trident  	weapon	Damage: 521
+Rock Spray		Trident  	weapon	Bleeding: 10 s  (300-400")
+Rock Spray		Trident  	weapon	Bleeding: 10 s  (200-300")
+Rock Spray		Trident  	weapon	Bleeding: 10 s  (0-200")
+Magnetic Current		Trident  	weapon	Damage: 168
+Rock Anchor		Trident  	weapon	Sink: 2 s
+Murky Water		Trident  	weapon	
+Murky Water		Trident  	weapon	Blind: 1 s
+Murky Water		Trident  	weapon	
+Ether Renewal			Healing  	Healing: 418
+Glyph of Elemental Harmony			Healing 	Healing: 4,894
+Glyph of Elemental Harmony			Healing 	Might: 20 s
+Glyph of Elemental Harmony			Healing 	Regeneration: 10 s
+Glyph of Elemental Harmony			Healing 	Swiftness: 10 s
+Signet of Restoration			Healing 	Healing: 3,275
+Arcane Blast			Utility 	Damage: 363
+Arcane Blast			Utility 	Combo Finisher: Projectile
+Arcane Shield			Utility 	
+Arcane Shield			Utility 	Damage: 365
+Arcane Wave			Utility 	Damage: 628
+Arcane Wave			Utility 	Combo Finisher: Blast
+Armor of Earth			Utility 	
+Armor of Earth			Utility 	Stability: 8 s
+Armor of Earth			Utility 	Protection: 8 s
+Cleansing Fire			Utility 	Burning: 3 s
+Cleansing Fire			Utility 	
+Lightning Flash			Utility 	Damage: 244
+Lightning Flash			Utility 	
+Lightning Flash			Utility 	Breaks stun
+Mist Form			Utility 	
+Conjure Flame Axe			Utility 	Burning: 5 s
+Glyph of Elemental Power			Utility 	Burning: 3 s
+Glyph of Elemental Power			Utility 	Chilled: 2 s
+Glyph of Elemental Power			Utility 	Weakness: 6 s
+Glyph of Elemental Power			Utility 	Crippled: 5 s
+Glyph of Renewal			Utility 	
+Glyph of Renewal			Utility 	Range: 1,200 (fire)
+Glyph of Renewal			Utility 	
+Glyph of Renewal			Utility 	Range: 1,200 (air)
+Glyph of Storms			Utility 	
+Signet of Air			Utility 	Blind: 5 s
+Signet of Air			Utility 	Damage: 122
+Signet of Air			Utility 	
+Signet of Earth			Utility 	Immobilized: 3 s
+Signet of Earth			Utility 	Damage: 122
+Signet of Fire			Utility 	Burning: 9 s
+Signet of Fire			Utility 	Damage: 61
+Signet of Water			Utility 	Chilled: 4 s
+Signet of Water			Utility 	Damage: 122
+Conjure Fiery Greatsword			Elite 	Damage: 244
+Conjure Fiery Greatsword			Elite 	Burning: 3 s
+Conjure Fiery Greatsword			Elite 	
+Glyph of Elementals			Elite 	
+Tornado			Elite 	Blowout: 600
+Tornado			Elite 	Damage: 122
+Tornado			Elite 	Stability: 15 s
+Tornado			Elite 	
+Discharge Lightning			Downed 	Damage: 195
+Discharge Lightning			Downed 	Vulnerability: 10 s
+Grasping Earth			Downed  	Damage: 73
+Grasping Earth			Downed  	
+Grasping Earth			Downed  	Immobilized: 1 s
+Steam Vent			Drowning 	Blind: 3 s
+Steam Vent			Drowning 	Burning: 3 s
+Shield Smack			skill	Damage: 260
+Crippling Shield			skill	Crippled: 2 s
+Magnetic Surge			skill	Damage: 163
+Magnetic Surge			skill	Daze: 2 s
+Magnetic Shield (elementalist skill)			skill	Damage: 135
+Magnetic Shield (elementalist skill)			skill	
+Lava Axe			skill	Damage: 260
+Explosive Lava Axe			skill	Damage: 506
+Explosive Lava Axe			skill	
+Burning Retreat (Lava Axe skill)			skill	Damage: 33
+Burning Retreat (Lava Axe skill)			skill	
+Ring of Fire (Lava Axe skill)			skill	Damage: 168
+Ring of Fire (Lava Axe skill)			skill	Burning: 5 s
+Ring of Fire (Lava Axe skill)			skill	
+Ring of Fire (Lava Axe skill)			skill	
+Flame Leap			skill	Damage: 488
+Flame Leap			skill	Burning: 15 s
+Flame Leap			skill	Combo Finisher: Leap
+Water Arrow			skill	Damage: 98
+Water Arrow			skill	Healing: 15
+Frost Volley			skill	Damage: 130
+Frost Volley			skill	Vulnerability: 10 s
+Frost Volley			skill	Combo Finisher: Projectile
+Frost Fan			skill	Damage (7x): 455
+Frost Fan			skill	Chilled: 3 s
+Ice Storm			skill	Damage: 325
+Ice Storm			skill	Confusion: 3 s
+Ice Storm			skill	
+Deep Freeze			skill	Damage: 260
+Lightning Swing			skill	Damage: 358
+Static Swing			skill	Damage: 358
+Thunderclap (Lightning Hammer skill)			skill	Damage: 586
+Thunderclap (Lightning Hammer skill)			skill	Blind: 3 s
+Thunderclap (Lightning Hammer skill)			skill	
+Thunderclap (Lightning Hammer skill)			skill	Combo Finisher: Blast
+Lightning Leap			skill	Damage: 325
+Lightning Leap			skill	Combo Finisher: Leap
+Wind Blast			skill	Damage: 107
+Wind Blast			skill	Blowout: 450
+Lightning Storm			skill	Damage: 163
+Static Field (Lightning Hammer skill)			skill	Damage: 163
+Static Field (Lightning Hammer skill)			skill	
+Static Field (Lightning Hammer skill)			skill	Stun: 2 s
+Static Field (Lightning Hammer skill)			skill	Combo Field: Lightning
+Flame Wave			skill	Damage: 212
+Fiery Eruption			skill	Burning: 3 s
+Fiery Eruption			skill	
+Fiery Whirl			skill	Damage: 224
+Fiery Whirl			skill	Crippled: 3 s
+Fiery Whirl			skill	
+Fiery Whirl			skill	Combo Finisher: Whirl
+Fiery Rush			skill	Damage: 325
+Firestorm			skill	Damage: 211
+Firestorm			skill	Area of effect: Circle 240
+Electrified Tornado			skill	Damage: 450
+Dust Tornado			skill	Blind: 5 s
+Dust Tornado			skill	Damage: 327
+Arcing Slice		Greatsword 	weapon	Damage: 480
+Arcing Slice		Greatsword 	weapon	Level 1 adrenaline: 3 s
+Arcing Slice		Greatsword 	weapon	Level 2 adrenaline: 6 s
+Arcing Slice		Greatsword 	weapon	Level 3 adrenaline: 9 s
+Greatsword Swing		Greatsword  	weapon	Damage: 259
+Greatsword Swing		Greatsword  	weapon	Vulnerability: 8 s
+Greatsword Slice		Greatsword  	weapon	Damage: 259
+Greatsword Slice		Greatsword  	weapon	Vulnerability: 8 s
+Brutal Strike		Greatsword  	weapon	Damage: 333
+Hundred Blades		Greatsword  	weapon	Damage (8x): 1,624
+Hundred Blades		Greatsword  	weapon	Final strike damage: 406
+Whirlwind Attack		Greatsword 	weapon	Damage: 259
+Whirlwind Attack		Greatsword 	weapon	Combo Finisher: Whirl
+Bladetrail		Greatsword 	weapon	Damage: 277
+Bladetrail		Greatsword 	weapon	Crippled: 4 s
+Bladetrail		Greatsword 	weapon	Combo Finisher: Projectile
+Rush		Greatsword 	weapon	Damage: 628
+Earthshaker		Hammer 	weapon	Damage: 244
+Earthshaker		Hammer 	weapon	Level 1 stun: 1 s
+Earthshaker		Hammer 	weapon	Level 2 stun: 1½ s
+Earthshaker		Hammer 	weapon	Level 3 stun: 2 s
+Earthshaker		Hammer 	weapon	Combo Finisher: Blast
+Hammer Swing (warrior skill)		Hammer  	weapon	Damage: 333
+Hammer Bash (warrior skill)		Hammer  	weapon	Damage: 333
+Hammer Smash		Hammer  	weapon	Damage: 444
+Fierce Blow		Hammer 	weapon	Damage: 518
+Fierce Blow		Hammer 	weapon	Weakness: 8 s
+Hammer Shock		Hammer 	weapon	Damage: 259
+Hammer Shock		Hammer 	weapon	Crippled: 7 s
+Staggering Blow		Hammer 	weapon	Damage: 481
+Staggering Blow		Hammer 	weapon	Knockback: 180
+Staggering Blow		Hammer 	weapon	Combo Finisher: Whirl
+Backbreaker		Hammer 	weapon	Damage: 554
+Backbreaker		Hammer 	weapon	Knockdown: 2 s
+Combustive Shot		Longbow 	weapon	Burning: 2 s
+Combustive Shot		Longbow 	weapon	
+Combustive Shot		Longbow 	weapon	
+Combustive Shot		Longbow 	weapon	Combo Field: Fire
+Dual Shot		Longbow 	weapon	Damage (2x): 212
+Dual Shot		Longbow 	weapon	Combo Finisher: Projectile (20% chance)
+Fan of Fire		Longbow 	weapon	Damage (3x): 423
+Fan of Fire		Longbow 	weapon	Burning: 2 s
+Arcing Arrow		Longbow 	weapon	Damage: 511
+Arcing Arrow		Longbow 	weapon	Combo Finisher: Blast
+Smoldering Arrow		Longbow 	weapon	Damage: 71
+Smoldering Arrow		Longbow 	weapon	Blind: 5 s
+Pin Down		Longbow 	weapon	Damage: 141
+Pin Down		Longbow 	weapon	Immobilized: 3 s
+Pin Down		Longbow 	weapon	Combo Finisher: Projectile
+Kill Shot		Rifle 	weapon	Level 1 damage: 548
+Kill Shot		Rifle 	weapon	Level 2 damage: 670
+Kill Shot		Rifle 	weapon	Level 3 damage: 792
+Kill Shot		Rifle 	weapon	Combo Finisher: Projectile
+Bleeding Shot		Rifle 	weapon	Damage: 155
+Bleeding Shot		Rifle 	weapon	Bleeding: 6 s
+Bleeding Shot		Rifle 	weapon	Combo Finisher: Projectile (20% chance)
+Aimed Shot		Rifle 	weapon	Damage: 135
+Aimed Shot		Rifle 	weapon	Crippled: 5 s
+Aimed Shot		Rifle 	weapon	Combo Finisher: Projectile
+Volley		Rifle  	weapon	Damage (5x): 1,160
+Volley		Rifle  	weapon	Combo Finisher: Projectile (20% chance)
+Brutal Shot (rifle skill)		Rifle 	weapon	Damage: 193
+Brutal Shot (rifle skill)		Rifle 	weapon	Vulnerability: 10 s
+Brutal Shot (rifle skill)		Rifle 	weapon	Combo Finisher: Projectile
+Rifle Butt		Rifle 	weapon	Damage: 386
+Rifle Butt		Rifle 	weapon	Knockback: 450
+Eviscerate		Main hand axe 	weapon	Level 1 damage: 487
+Eviscerate		Main hand axe 	weapon	Level 2 damage: 609
+Eviscerate		Main hand axe 	weapon	Level 3 damage: 731
+Eviscerate		Main hand axe 	weapon	Combo Finisher: Leap
+Chop		Main hand axe  	weapon	Damage: 252
+Double Chop		Main hand axe  	weapon	Damage (2x): 538
+Triple Chop		Main hand axe  	weapon	Damage (3x): 858
+Cyclone Axe		Main hand axe 	weapon	Damage (2x): 236
+Cyclone Axe		Main hand axe 	weapon	Vulnerability: 8 s
+Cyclone Axe		Main hand axe 	weapon	Combo Finisher: Whirl
+Throw Axe		Main hand axe 	weapon	Damage: 225
+Throw Axe		Main hand axe 	weapon	Crippled: 4 s
+Throw Axe		Main hand axe 	weapon	Combo Finisher: Projectile
+Dual Strike		Off-hand axe 	weapon	Damage (2x): 404
+Dual Strike		Off-hand axe 	weapon	Fury: 2 s
+Whirling Axe		Off-hand axe  	weapon	Damage (15x): 1,005
+Whirling Axe		Off-hand axe  	weapon	Combo Finisher: Whirl
+Skull Crack		Main hand mace 	weapon	Damage: 244
+Skull Crack		Main hand mace 	weapon	Level 1 stun: 1 s
+Skull Crack		Main hand mace 	weapon	Level 2 stun: 1½ s
+Skull Crack		Main hand mace 	weapon	Level 3 stun: 2 s
+Mace Smash		Main hand mace  	weapon	Damage: 269
+Mace Bash		Main hand mace  	weapon	Damage: 269
+Pulverize		Main hand mace  	weapon	Damage: 538
+Pulverize		Main hand mace  	weapon	Weakness: 5 s
+Pommel Bash		Main hand mace 	weapon	Daze: 1 s
+Pommel Bash		Main hand mace 	weapon	Damage: 134
+Crushing Blow		Off-hand mace 	weapon	Vulnerability: 10 s
+Crushing Blow		Off-hand mace 	weapon	Damage: 336
+Tremor		Off-hand mace 	weapon	Damage: 269
+Tremor		Off-hand mace 	weapon	Knockdown: 2 s
+Tremor		Off-hand mace 	weapon	Combo Finisher: Projectile
+Flurry		Main hand sword 	weapon	Bleeding: 2 s
+Flurry		Main hand sword 	weapon	Damage (8x): 256
+Flurry		Main hand sword 	weapon	Level 1 immobilize: 2 s
+Flurry		Main hand sword 	weapon	Level 2 immobilize: 3 s
+Flurry		Main hand sword 	weapon	Level 3 immobilize: 4 s
+Sever Artery		Main hand sword  	weapon	Bleeding: 8 s
+Sever Artery		Main hand sword  	weapon	Damage: 202
+Gash		Main hand sword  	weapon	Damage: 202
+Gash		Main hand sword  	weapon	Bleeding: 8 s
+Final Thrust		Main hand sword  	weapon	Damage: 437
+Savage Leap		Main hand sword 	weapon	Damage: 252
+Savage Leap		Main hand sword 	weapon	Combo Finisher: Leap
+Hamstring		Main hand sword 	weapon	Crippled: 7 s
+Hamstring		Main hand sword 	weapon	Damage: 252
+Impale (warrior sword skill)		Off-hand sword 	weapon	Damage: 184
+Impale (warrior sword skill)		Off-hand sword 	weapon	Bleeding: 12 s
+Impale (warrior sword skill)		Off-hand sword 	weapon	Combo Finisher: Projectile
+Rip		Off-hand sword 	weapon	Damage: 643
+Riposte		Off-hand sword 	weapon	Damage: 168
+Shield Bash		Shield 	weapon	Damage: 302
+Shield Bash		Shield 	weapon	Stun: 1 s
+Shield Bash		Shield 	weapon	Combo Finisher: Leap
+Charge (warrior skill)		Warhorn 	weapon	Swiftness: 10 s
+Charge (warrior skill)		Warhorn 	weapon	Cures crippled
+Charge (warrior skill)		Warhorn 	weapon	Cures immobilized
+Charge (warrior skill)		Warhorn 	weapon	Cures chilled
+Call to Arms		Warhorn 	weapon	Vigor: 10 s
+Call to Arms		Warhorn 	weapon	Weakness: 6 s
+Forceful Shot		Harpoon gun 	weapon	Level 1 damage: 304
+Forceful Shot		Harpoon gun 	weapon	Level 2 damage: 426
+Forceful Shot		Harpoon gun 	weapon	Level 3 damage: 548
+Mariner's Shot		Harpoon gun 	weapon	800+ Range: 269
+Mariner's Shot		Harpoon gun 	weapon	400-800 Range: 202
+Mariner's Shot		Harpoon gun 	weapon	0-400 Range: 134
+Mariner's Shot		Harpoon gun 	weapon	Combo Finisher: Projectile
+Brutal Shot (harpoon gun skill)		Harpoon gun 	weapon	Damage: 168
+Brutal Shot (harpoon gun skill)		Harpoon gun 	weapon	Vulnerability: 15 s
+Split Shot		Harpoon gun 	weapon	Damage: 67
+Split Shot		Harpoon gun 	weapon	Bleeding: 5 s
+Knot Shot		Harpoon gun 	weapon	Damage: 168
+Knot Shot		Harpoon gun 	weapon	Immobilized: 2 s
+Repeating Shot		Harpoon gun 	weapon	Damage (4x): 336
+Whirling Strike		Spear 	weapon	Damage: 365
+Whirling Strike		Spear 	weapon	Level 1 stun: 1 s
+Whirling Strike		Spear 	weapon	Level 2 stun: 1½ s
+Whirling Strike		Spear 	weapon	Level 3 stun: 2 s
+Stab (warrior skill)		Spear  	weapon	Damage: 278
+Jab (warrior skill)		Spear  	weapon	Damage: 313
+Impale (warrior spear skill)		Spear  	weapon	Damage: 336
+Impale (warrior spear skill)		Spear  	weapon	Crippled: 4 s
+Mariner's Frenzy		Spear  	weapon	Damage: 84
+Mariner's Frenzy		Spear  	weapon	
+Harpoon Pull		Spear 	weapon	Damage: 336
+Tsunami Slash		Spear  	weapon	Damage per strike: 134
+Tsunami Slash		Spear  	weapon	
+Healing Surge			Healing 	Adrenaline: 10
+Healing Surge			Healing 	Stage 1 heal: 5,880
+Healing Surge			Healing 	Stage 2 heal: 6,840
+Banner of Defense			Utility 	Toughness, 90 Vitality
+Banner of Defense			Utility 	
+Banner of Defense			Utility 	Combo Finisher: Blast
+Banner of Discipline			Utility 	Precision, 10% Critical Damage
+Banner of Discipline			Utility 	
+Banner of Discipline			Utility 	Combo Finisher: Blast
+Banner of Strength			Utility 	Power, 90 Condition Damage
+Banner of Strength			Utility 	
+Banner of Strength			Utility 	Combo Finisher: Blast
+Banner of Tactics			Utility 	Healing, 10% Boon Duration
+Banner of Tactics			Utility 	
+Banner of Tactics			Utility 	Combo Finisher: Blast
+Bull's Charge			Utility 	Damage: 183
+Bull's Charge			Utility 	Knockdown: 2 s
+Bull's Charge			Utility 	Combo Finisher: Leap
+Kick (warrior utility skill)			Utility 	Damage: 122
+Kick (warrior utility skill)			Utility 	Knockback: 240
+Stomp			Utility 	Damage: 183
+Stomp			Utility 	Blowout: 450
+Stomp			Utility 	
+Throw Bolas			Utility 	Immobilized: 4 s
+Throw Bolas			Utility 	Damage: 61
+Throw Bolas			Utility 	Combo Finisher: Projectile
+"Fear Me!"			Utility 	40'-100': 1 s
+"Fear Me!"			Utility 	15'-40': 2 s
+"For Great Justice!"			Utility 	Fury: 8 s
+"For Great Justice!"			Utility 	Might: 25 s
+"On My Mark!"			Utility 	Vulnerability: 10 s
+"Shake It Off!"			Utility 	
+Signet of Fury			Utility 	precision
+Signet of Might			Utility 	power
+Balanced Stance			Utility 	Stability: 8 s
+Endure Pain			Utility 	
+Frenzy (warrior skill)			Utility 	Quickness: 4 s
+Frenzy (warrior skill)			Utility 	Frenzy: 4 s
+Battle Standard			Elite 	Stability: 3 s
+Battle Standard			Elite 	Fury: 3 s
+Battle Standard			Elite 	Might: 10 s
+Battle Standard			Elite 	
+Signet of Rage			Elite 	Might: 30 s
+Signet of Rage			Elite 	Fury: 30 s
+Throw Rock			Downed 	Damage: 122
+Hammer Toss			Downed 	Damage: 127
+Hammer Toss			Downed 	Knockdown: 2 s
+Punch (warrior skill)			Drowning 	Damage: 18
+Kick (warrior drowning skill)			Drowning 	Damage: 18
+Kick (warrior drowning skill)			Drowning 	Crippled: 2 s
+Stab (banner skill)			skill	Damage: 325
+Staggering Baner			skill	Damage: 260
+Staggering Baner			skill	Knockback: 180
+Staggering Baner			skill	Combo Finisher: Whirl
+Furious Rally			skill	Fury: 8 s
+Brutal Banner			skill	Damage: 447
+Brutal Banner			skill	Vulnerability: 6 s
+Compassionate Banner			skill	Regeneration: 5 s
+Compassionate Banner			skill	Healing: 3,840
+Whirlwind Banner			skill	Stability: 3 s
+Inspire			skill	Swiftness: 10 s
+Sprint			skill	Damage: 553
+Smash (Rampage)			skill	Damage: 545
+Kick (Rampage)			skill	Damage: 409
+Kick (Rampage)			skill	Knockback: 300
+Dash (Rampage)			skill	Damage: 409
+Dash (Rampage)			skill	Combo Finisher: Leap
+Throw Boulder			skill	Damage: 409
+Throw Boulder			skill	Combo Finisher: Projectile
+Virtue of Justice			Profession mechanic 	Burning: 1 s  (passive)
+Virtue of Resolve			Profession mechanic 	Passive Regeneration: 3 s
+Strike		Greatsword  	weapon	Damage: 296
+Vengeful Strike		Greatsword  	weapon	Damage: 296
+Wrathful Strike		Greatsword  	weapon	Damage: 443
+Wrathful Strike		Greatsword  	weapon	Might: 3 s
+Whirling Wrath		Greatsword  	weapon	Damage (9x): 1,251
+Whirling Wrath		Greatsword  	weapon	Combo Finisher: Whirl
+Leap of Faith		Greatsword 	weapon	Damage: 406
+Leap of Faith		Greatsword 	weapon	Blind: 3 s
+Leap of Faith		Greatsword 	weapon	Combo Finisher: Leap
+Symbol of Wrath		Greatsword 	weapon	Damage (5x): 925
+Symbol of Wrath		Greatsword 	weapon	Retaliation: 1 s
+Binding Blade		Greatsword 	weapon	Damage: 369
+Binding Blade		Greatsword 	weapon	
+Binding Blade		Greatsword 	weapon	
+Pull (guardian skill)		Greatsword 	weapon	
+Hammer Swing (guardian skill)		Hammer  	weapon	Damage: 296
+Hammer Bash (guardian skill)		Hammer  	weapon	Damage: 333
+Symbol of Protection		Hammer 	weapon	Damage: 370
+Symbol of Protection		Hammer 	weapon	Damage (4x): 740
+Symbol of Protection		Hammer 	weapon	Protection: 1 s
+Symbol of Protection		Hammer 	weapon	Combo Field: Light
+Mighty Blow		Hammer 	weapon	Damage: 647
+Mighty Blow		Hammer 	weapon	Range: 300
+Mighty Blow		Hammer 	weapon	
+Zealot's Embrace		Hammer 	weapon	Damage: 296
+Zealot's Embrace		Hammer 	weapon	Immobilized: 2 s
+Banish		Hammer 	weapon	Damage: 370
+Banish		Hammer 	weapon	Blowout: 750
+Ring of Warding		Hammer 	weapon	
+Wave of Wrath		Staff 	weapon	Damage: 222
+Orb of Light		Staff 	weapon	Damage: 444
+Symbol of Swiftness		Staff 	weapon	Damage: 185
+Symbol of Swiftness		Staff 	weapon	Swiftness: 8 s
+Symbol of Swiftness		Staff 	weapon	
+Symbol of Swiftness		Staff 	weapon	
+Symbol of Swiftness		Staff 	weapon	Combo Field: Light
+Empower		Staff  	weapon	Healing: 1,500
+Empower		Staff  	weapon	
+Line of Warding		Staff 	weapon	
+True Strike		Main hand mace  	weapon	Damage: 269
+Pure Strike		Main hand mace  	weapon	Damage: 336
+Faithful Strike		Main hand mace  	weapon	Damage: 470
+Faithful Strike		Main hand mace  	weapon	Healing: 463
+Symbol of Faith		Main hand mace 	weapon	Damage: 168
+Symbol of Faith		Main hand mace 	weapon	Regeneration: 1 s
+Symbol of Faith		Main hand mace 	weapon	
+Symbol of Faith		Main hand mace 	weapon	
+Symbol of Faith		Main hand mace 	weapon	Combo Field: Light
+Protector's Strike		Main hand mace 	weapon	Damage: 470
+Protector's Strike		Main hand mace 	weapon	Protection: 3 s
+Orb of Wrath		Scepter 	weapon	Damage: 224
+Smite		Scepter 	weapon	Damage (15x): 1,665
+Chains of Light		Scepter 	weapon	Immobilized: 2 s
+Chains of Light		Scepter 	weapon	Vulnerability: 6 s
+Sword of Wrath		Main hand sword  	weapon	Damage: 269
+Sword Arc		Main hand sword  	weapon	Damage: 269
+Sword Wave		Main hand sword  	weapon	Damage (3x): 504
+Flashing Blade		Main hand sword 	weapon	Damage: 67
+Flashing Blade		Main hand sword 	weapon	Blind: 3 s
+Zealot's Defense		Main hand sword  	weapon	Damage (8x): 888
+Zealot's Defense		Main hand sword  	weapon	
+Ray of Judgment		Focus 	weapon	Damage: 151
+Ray of Judgment		Focus 	weapon	Blind: 3 s
+Ray of Judgment		Focus 	weapon	Regeneration: 3 s
+Ray of Judgment		Focus 	weapon	
+Shield of Wrath		Focus 	weapon	Damage: 756
+Shield of Wrath		Focus 	weapon	
+Shield of Wrath		Focus 	weapon	
+Shield of Judgment		Shield 	weapon	Damage: 302
+Shield of Judgment		Shield 	weapon	Protection: 5 s
+Shield of Absorption		Shield 	weapon	Knockback distance: 320
+Shield of Absorption		Shield 	weapon	
+Zealot's Fire		Torch 	weapon	Damage: 681
+Cleansing Flame		Torch  	weapon	Damage (10x): 1,000
+Spear of Light		Spear 	weapon	Damage: 208
+Spear of Light		Spear 	weapon	Vulnerability: 5 s
+Zealot's Flurry		Spear 	weapon	Damage (8x): 832
+Brilliance		Spear 	weapon	Damage: 349
+Brilliance		Spear 	weapon	Blind: 5 s
+Wrathful Grasp		Spear 	weapon	Damage: 352
+Wrathful Grasp		Spear 	weapon	Burning: 5 s
+Light of Judgment		Trident 	weapon	Damage: 67
+Light of Judgment		Trident 	weapon	Healing: 69
+Purify		Trident 	weapon	Damage: 168
+Purify		Trident 	weapon	Burning: 5 s
+Purify		Trident 	weapon	
+Purifying Blast		Trident 	weapon	Damage: 672
+Purifying Blast		Trident 	weapon	Burning: 5 s
+Purifying Blast		Trident 	weapon	
+Refraction		Trident 	weapon	
+Weight of Justice		Trident 	weapon	
+Weight of Justice		Trident 	weapon	
+Healing Breeze			Healing  	Healing: 6,525 (self)
+Healing Breeze			Healing  	Healing: 1,725 (allies)
+Healing Breeze			Healing  	
+Shelter			Healing 	Healing: 4,555
+Hallowed Ground			Utility 	Stability: 10 s
+Hallowed Ground			Utility 	
+Hallowed Ground			Utility 	Combo Field: Fire
+Purging Flames			Utility 	Burning: 5 s
+Purging Flames			Utility 	
+Sanctuary			Utility 	
+Sanctuary			Utility 	Healing: 2,660
+Wall of Reflection			Utility 	
+Wall of Reflection			Utility 	Combo Field: Light
+Judge's Intervention			Utility 	Burning: 3 s
+Judge's Intervention			Utility 	Damage: 122
+Judge's Intervention			Utility 	Breaks stun
+Merciful Intervention			Utility 	Healing: 2,152
+Smite Condition			Utility 	Damage with no conditions: 207
+"Hold the Line!"			Utility 	Protection: 4 s
+"Hold the Line!"			Utility 	Regeneration: 6 s
+"Retreat!"			Utility 	Aegis: 20 s
+"Retreat!"			Utility 	Swiftness: 20 s
+"Save Yourselves!"			Utility 	Fury: 10 s
+"Save Yourselves!"			Utility 	Vigor: 10 s
+"Save Yourselves!"			Utility 	Might: 10 s
+"Save Yourselves!"			Utility 	Protection: 10 s
+"Save Yourselves!"			Utility 	Regeneration: 10 s
+"Save Yourselves!"			Utility 	Swiftness: 10 s
+"Save Yourselves!"			Utility 	Retaliation: 10 s
+"Save Yourselves!"			Utility 	Breaks stun
+"Stand Your Ground!"			Utility 	Stability: 5 s
+"Stand Your Ground!"			Utility 	Retaliation: 5 s
+"Stand Your Ground!"			Utility 	Breaks stun
+Bane Signet			Utility 	power
+Bane Signet			Utility 	Damage: 244
+Bane Signet			Utility 	Knockdown: 2 s
+Signet of Judgment			Utility 	Retaliation: 3 s
+Signet of Judgment			Utility 	Weakness: 5 s
+Signet of Wrath			Utility 	Immobilized: 3 s
+Bow of Truth			Utility 	
+Hammer of Wisdom			Utility 	
+Command (hammer)			Utility 	Knockdown: 3 s
+Shield of the Avenger			Utility 	
+Command (shield)			Utility 	Damage: 122
+Command (shield)			Utility 	Weakness: 6 s
+Sword of Justice			Utility 	
+Sword of Justice			Utility 	Damage: 694
+Command (sword)			Utility 	Damage: 2,308
+Wrath			Downed  	Damage: 73
+Wave of Light			Downed 	Damage: 122
+Wave of Light			Downed 	Knockback: 300
+Symbol of Judgment			Downed 	Damage (4x): 388
+Symbol of Judgment			Downed 	Healing: 2,608
+Symbol of Judgment			Downed 	Combo Field: Light
+Purifying Ribbon			Elite 	Blind: 3 s
+Protective Spirit			Elite 	Protection: 10 s
+Protective Spirit			Elite 	Regeneration: 10 s
+Light of Deliverance			Elite 	
+Conflagrate			Elite 	Burning: 2 s
+Conflagrate			Elite 	Damage: 409
+Smiter's Boon			Elite 	
+Smiter's Boon			Elite 	Might: 10 s
+Smiter's Boon			Elite 	Swiftness: 5 s
+Zealot's Fervor			Elite 	
+Zealot's Fervor			Elite 	Fury: 10 s
+Zealot's Fervor			Elite 	
+Hip Shot		Rifle 	weapon	Damage: 251
+Hip Shot		Rifle 	weapon	Combo Finisher: Projectile (20% chance)
+Net Shot		Rifle 	weapon	Immobilized: 2 s
+Blunderbuss		Rifle 	weapon	Damage at 100 distance: 618
+Blunderbuss		Rifle 	weapon	Damage at 400 distance: 386
+Blunderbuss		Rifle 	weapon	Bleeding at 100 distance: 4 s
+Blunderbuss		Rifle 	weapon	Bleeding at 400 distance: 4 s
+Overcharged Shot		Rifle 	weapon	Damage: 386
+Overcharged Shot		Rifle 	weapon	Foe launch distance: 450
+Overcharged Shot		Rifle 	weapon	Self knockback distance: 300
+Jump Shot		Rifle 	weapon	Leap damage: 348
+Jump Shot		Rifle 	weapon	Landing damage: 696
+Jump Shot		Rifle 	weapon	Vulnerability: 7 s
+Jump Shot		Rifle 	weapon	
+Jump Shot		Rifle 	weapon	Combo Finisher: Leap
+Explosive Shot		Main hand pistol 	weapon	Damage: 118
+Explosive Shot		Main hand pistol 	weapon	Bleeding: 2 s
+Explosive Shot		Main hand pistol 	weapon	
+Explosive Shot		Main hand pistol 	weapon	Combo Finisher: Projectile (20% chance)
+Poison Dart Volley		Main hand pistol  	weapon	Damage: 134
+Poison Dart Volley		Main hand pistol  	weapon	Poison: 2 s
+Poison Dart Volley		Main hand pistol  	weapon	
+Static Shot		Main hand pistol 	weapon	Damage: 134
+Static Shot		Main hand pistol 	weapon	Blind: 3 s
+Static Shot		Main hand pistol 	weapon	Confusion: 3 s
+Static Shot		Main hand pistol 	weapon	
+Blowtorch		Off-hand pistol 	weapon	Damage at 200 distance (3x): 333
+Blowtorch		Off-hand pistol 	weapon	Damage at 600 distance: 111
+Blowtorch		Off-hand pistol 	weapon	Burning at 200 distance: 2 s
+Blowtorch		Off-hand pistol 	weapon	Burning at 600 distance: 2 s
+Glue Shot		Off-hand pistol 	weapon	Immobilized: 1 s
+Glue Shot		Off-hand pistol 	weapon	Crippled: 1 s
+Glue Shot		Off-hand pistol 	weapon	
+Glue Shot		Off-hand pistol 	weapon	
+Magnetic Inversion		Shield 	weapon	Damage: 76
+Magnetic Inversion		Shield 	weapon	Knockback: 300
+Static Shield		Shield 	weapon	Stun: 2 s
+Throw Shield		Shield 	weapon	Daze: 1 s
+Throw Shield		Shield 	weapon	Damage: 151
+Throw Shield		Shield 	weapon	Combo Finisher: Projectile
+Homing Torpedo		Harpoon gun 	weapon	Damage: 202
+Scatter Mines		Harpoon gun 	weapon	Damage (3x): 1,410
+Scatter Mines		Harpoon gun 	weapon	Vulnerability: 5 s
+Retreating Grapple		Harpoon gun 	weapon	Damage: 134
+Retreating Grapple		Harpoon gun 	weapon	Retreat distance: 480
+Retreating Grapple		Harpoon gun 	weapon	Pull distance: 600
+Timed Charge		Harpoon gun 	weapon	Explosion damage: 588
+Timed Charge		Harpoon gun 	weapon	
+Timed Charge		Harpoon gun 	weapon	Bleeding: 7 s
+Timed Charge		Harpoon gun 	weapon	
+Net Wall		Harpoon gun 	weapon	Immobilized: 3 s
+Elixir H			Healing  Tool belt skill   Toss Elixir H 	Healing: 5,560
+Elixir H			Healing  Tool belt skill   Toss Elixir H 	Regeneration: 10 s
+Elixir H			Healing  Tool belt skill   Toss Elixir H 	Protection: 5 s
+Toss Elixir H			skill	Protection: 5 s
+Toss Elixir H			skill	Vigor: 10 s
+Toss Elixir H			skill	Regeneration: 10 s
+Toss Elixir H			skill	
+Healing Turret			Healing  Tool belt skill   Regenerating Mist 	Healing: 4,920
+Healing Turret			Healing  Tool belt skill   Regenerating Mist 	Regeneration: 8 s
+Cleansing Burst			Healing  Tool belt skill   Detonate Healing Turret 	Healing: 1,302
+Regenerating Mist			skill	Regeneration: 3 s
+Regenerating Mist			skill	Range: 480
+Big Ol' Bomb			skill	Damage: 548
+Big Ol' Bomb			skill	Blowout: 400
+Big Ol' Bomb			skill	
+Grenade Barrage			skill	Damage: 122
+Grenade Barrage			skill	
+Grenade Barrage			skill	
+Elixir B			Utility  Tool belt skill   Toss Elixir B 	Might: 30 s
+Elixir B			Utility  Tool belt skill   Toss Elixir B 	Fury: 10 s
+Elixir B			Utility  Tool belt skill   Toss Elixir B 	Swiftness: 10 s
+Toss Elixir B			skill	Might: 30 s
+Toss Elixir B			skill	Fury: 10 s
+Toss Elixir B			skill	Swiftness: 10 s
+Toss Elixir B			skill	Retaliation: 10 s
+Toss Elixir B			skill	
+Toss Elixir C			skill	
+Toss Elixir C			skill	
+Toss Elixir R			skill	
+Toss Elixir R			skill	
+Toss Elixir R			skill	
+Elixir S			Utility  Tool belt skill   Toss Elixir S 	
+Toss Elixir S			skill	Stability: 4 s
+Toss Elixir S			skill	Stealth: 4 s
+Toss Elixir S			skill	
+Elixir U			Utility  Tool belt skill   Toss Elixir U 	Quickness (5 s): Skills and actions are twice as fast.
+Elixir U			Utility  Tool belt skill   Toss Elixir U 	Haste (5 s): Regenerate no endurance.
+Elixir U			Utility  Tool belt skill   Toss Elixir U 	Frenzy (5 s): You take 50% more damage.
+Personal Battering Ram			Utility  Tool belt skill   Launch Personal Battering Ram 	Damage: 304
+Personal Battering Ram			Utility  Tool belt skill   Launch Personal Battering Ram 	Blowout: 450
+Launch Personal Battering Ram			skill	Damage: 304
+Launch Personal Battering Ram			skill	Crippled: 5 s
+Launch Personal Battering Ram			skill	Combo Finisher: Projectile
+Rocket Boots			Utility  Tool belt skill   Rocket Kick 	Damage: 244
+Rocket Boots			Utility  Tool belt skill   Rocket Kick 	
+Rocket Boots			Utility  Tool belt skill   Rocket Kick 	
+Rocket Boots			Utility  Tool belt skill   Rocket Kick 	Breaks stun
+Rocket Kick			skill	Damage: 183
+Rocket Kick			skill	Burning: 5 s
+Slick Shoes			Utility  Tool belt skill   Super Speed 	Knockdown: 2 s
+Slick Shoes			Utility  Tool belt skill   Super Speed 	
+Throw Mine			Utility  Tool belt skill   Mine Field 	Damage: 304
+Throw Mine			Utility  Tool belt skill   Mine Field 	
+Throw Mine			Utility  Tool belt skill   Mine Field 	
+Throw Mine			Utility  Tool belt skill   Mine Field 	Knockback: 300
+Detonate			Utility 	Damage: 304
+Detonate			Utility 	
+Detonate			Utility 	Knockback: 300
+Mine Field			skill	Damage per mine: 170
+Mine Field			skill	
+Detonate Mine Field			skill	Damage: 170
+Utility Goggles			Utility  Tool belt skill   Analyze 	Fury: 10 s
+Utility Goggles			Utility  Tool belt skill   Analyze 	
+Analyze			skill	Vulnerability: 8 s
+Flame Turret			Utility  Tool belt skill   Throw Napalm 	Damage: 127
+Flame Turret			Utility  Tool belt skill   Throw Napalm 	Burning: 2 s
+Smoke Screen (engineer skill)			Utility  Tool belt skill   Detonate Flame Turret 	Blind per pulse: 2 s
+Smoke Screen (engineer skill)			Utility  Tool belt skill   Detonate Flame Turret 	
+Smoke Screen (engineer skill)			Utility  Tool belt skill   Detonate Flame Turret 	
+Throw Napalm			skill	Damage: 170
+Throw Napalm			skill	Burning: 3 s
+Throw Napalm			skill	
+Net Turret			Utility  Tool belt skill   Net Attack 	Immobilized: 3 s
+Net Turret			Utility  Tool belt skill   Net Attack 	
+Electrified Net			Utility  Tool belt skill   Detonate Net Turret 	
+Electrified Net			Utility  Tool belt skill   Detonate Net Turret 	Damage: 318
+Electrified Net			Utility  Tool belt skill   Detonate Net Turret 	Immobilized: 3 s
+Electrified Net			Utility  Tool belt skill   Detonate Net Turret 	Stun: 2 s
+Electrified Net			Utility  Tool belt skill   Detonate Net Turret 	
+Net Attack			skill	Immobilized: 3 s
+Rifle Turret			Utility  Tool belt skill   Surprise Shot (engineer skill) 	Damage: 318
+Rifle Turret			Utility  Tool belt skill   Surprise Shot (engineer skill) 	
+Surprise Shot (engineer skill)			skill	Damage: 122
+Surprise Shot (engineer skill)			skill	Combo Finisher: Projectile
+Rocket Turret			Utility  Tool belt skill   Rocket 	Damage: 794
+Rocket Turret			Utility  Tool belt skill   Rocket 	Burning: 3 s
+Rocket Turret			Utility  Tool belt skill   Rocket 	
+Rocket Turret			Utility  Tool belt skill   Rocket 	
+Explosive Rockets			Utility  Tool belt skill   Detonate Rocket Turret 	Damage: 1,270
+Explosive Rockets			Utility  Tool belt skill   Detonate Rocket Turret 	Knockdown: 2 s
+Explosive Rockets			Utility  Tool belt skill   Detonate Rocket Turret 	Burning: 3 s
+Explosive Rockets			Utility  Tool belt skill   Detonate Rocket Turret 	
+Explosive Rockets			Utility  Tool belt skill   Detonate Rocket Turret 	
+Explosive Rockets			Utility  Tool belt skill   Detonate Rocket Turret 	
+Rocket			skill	Damage: 304
+Rocket			skill	
+Thumper Turret			Utility  Tool belt skill   Shockwave (engineer skill) 	Damage: 381
+Thumper Turret			Utility  Tool belt skill   Shockwave (engineer skill) 	
+Thump			Utility  Tool belt skill   Detonate Thumper Turret 	Damage: 762
+Thump			Utility  Tool belt skill   Detonate Thumper Turret 	Blowout: 400
+Shockwave (engineer skill)			skill	Damage: 146
+Shockwave (engineer skill)			skill	Combo Finisher: Blast
+Healing Mist			skill	Regeneration: 10 s
+Incendiary Ammo			skill	Burning: 3 s
+Throw Wrench			skill	Damage: 244
+Throw Wrench			skill	Combo Finisher: Projectile
+Elixir X			Elite 	Tornado (15 s): Transformed into a tornado.
+Mortar			Elite 	
+Supply Crate			Elite 	Damage: 244
+Supply Crate			Elite 	Stun: 2 s
+Supply Crate			Elite 	
+Supply Crate			Elite 	Combo Finisher: Blast
+Throw Junk			Downed 	Damage: 128
+Throw Junk			Downed 	Bleeding: 3 s
+Throw Junk			Downed 	Chilled: 3 s
+Throw Junk			Downed 	Weakness: 3 s
+Grappling Line			Downed Drowning 	Damage: 201
+Booby Trap			Downed 	Damage: 773
+Booby Trap			Downed 	Blowout: 480
+Floating Mine			Drowning 	Damage: 20
+Anchor			Drowning 	Sink: 3 s
+Anchor			Drowning 	Damage: 8
+Bomb			skill	Damage: 407
+Fire Bomb			skill	Damage: 65
+Fire Bomb			skill	Burning: 2 s
+Fire Bomb			skill	
+Fire Bomb			skill	
+Concussion Bomb			skill	Damage: 163
+Concussion Bomb			skill	Confusion: 5 s
+Smoke Bomb (engineer skill)			skill	Blind: 5 s
+Smoke Bomb (engineer skill)			skill	
+Smoke Bomb (engineer skill)			skill	
+Glue Bomb			skill	Immobilized: 1 s
+Glue Bomb			skill	Crippled: 1 s
+Glue Bomb			skill	
+Tranquilizer Dart			skill	Damage: 130
+Tranquilizer Dart			skill	Weakness: 1 s
+Tranquilizer Dart			skill	Bleeding: 4 s
+Tranquilizer Dart			skill	Combo Finisher: Projectile (20% chance)
+Elixir F			skill	Damage: 244
+Elixir F			skill	Crippled: 3 s
+Elixir F			skill	Swiftness: 3 s
+Elixir F			skill	
+Fumigate			skill	Damage (5x): 130
+Fumigate			skill	Poison: 1 s
+Fumigate			skill	Vulnerability: 6 s
+Acid Bomb			skill	Damage: 277
+Acid Bomb			skill	
+Super Elixir			skill	Impact heal: 380
+Super Elixir			skill	Pulse heal: 140
+Super Elixir			skill	
+Super Elixir			skill	
+Super Elixir			skill	Combo Field: Light
+Flame Jet			skill	Damage (10x): 490
+Flame Jet			skill	Burning: 1 s
+Flame Jet			skill	
+Flame Blast			skill	Damage: 244
+Flame Blast			skill	Blast damage: 569
+Flame Blast			skill	
+Air Blast			skill	Knockback distance: 400
+Napalm			skill	Burning per pulse: 1 s
+Napalm			skill	
+Napalm			skill	Combo Field: Fire
+Smoke Vent			skill	Blind: 5 s
+Grenade			skill	Damage: 163
+Grenade			skill	
+Shrapnel Grenade			skill	Damage: 179
+Shrapnel Grenade			skill	Bleeding: 12 s
+Shrapnel Grenade			skill	
+Flash Grenade			skill	Blind: 5 s
+Flash Grenade			skill	
+Freeze Grenade			skill	Damage: 163
+Freeze Grenade			skill	Chilled: 2 s
+Freeze Grenade			skill	
+Poison Grenade			skill	Poison: 5 s
+Poison Grenade			skill	
+Poison Grenade			skill	
+Poison Grenade			skill	Combo Field: Poison
+Drop Stimulant			skill	Fury: 10 s
+Launch Mortar Shot			skill	Damage: 505
+Launch Mortar Shot			skill	
+Launch Caltrops Mortar			skill	Crippled: 2 s
+Launch Caltrops Mortar			skill	Bleeding: 12 s
+Launch Caltrops Mortar			skill	
+Launch Caltrops Mortar			skill	
+Launch Elixir			skill	Healing: 370
+Launch Elixir			skill	
+Launch Elixir			skill	
+Launch Ice Mortar			skill	Chilled: 1 s
+Launch Ice Mortar			skill	Damage: 252
+Launch Ice Mortar			skill	
+Launch Ice Mortar			skill	
+Launch Ice Mortar			skill	Combo Field: Ice
+Launch Concussion Barrage			skill	Damage (5x): 1,485
+Launch Concussion Barrage			skill	Knockback: 300
+Launch Concussion Barrage			skill	
+Smack			skill	Damage: 260
+Smack			skill	Vulnerability: 6 s
+Whack			skill	Damage: 260
+Whack			skill	Vulnerability: 6 s
+Thwack			skill	Damage: 569
+Box of Nails			skill	Bleeding: 2 s
+Box of Nails			skill	Crippled: 2 s
+Box of Nails			skill	
+Pry Bar			skill	Damage: 651
+Pry Bar			skill	Confusion: 4 s
+Slash (ranger greatsword skill)		Greatsword  	weapon	Damage: 203
+Slice (ranger skill)		Greatsword  	weapon	Damage: 203
+Power Stab		Greatsword  	weapon	Damage: 240
+Maul (ranger greatsword skill)		Greatsword 	weapon	Damage: 296
+Maul (ranger greatsword skill)		Greatsword 	weapon	Bleeding: 4 s
+Swoop		Greatsword 	weapon	Damage: 517
+Swoop		Greatsword 	weapon	Combo Finisher: Leap
+Counterattack		Greatsword 	weapon	Damage: 480
+Crippling Throw		Greatsword 	weapon	Damage: 369
+Crippling Throw		Greatsword 	weapon	Crippled: 3 s
+Crippling Throw		Greatsword 	weapon	Combo Finisher: Projectile
+Hilt Bash		Greatsword 	weapon	Damage: 185
+Hilt Bash		Greatsword 	weapon	Daze: 1 s
+Hilt Bash		Greatsword 	weapon	Stun: 1 s
+Long Range Shot		Longbow 	weapon	1000+ range: 317
+Long Range Shot		Longbow 	weapon	500-1000 range: 229
+Long Range Shot		Longbow 	weapon	0-500 range: 176
+Long Range Shot		Longbow 	weapon	Combo Finisher: Projectile (20% chance)
+Rapid Fire		Longbow  	weapon	Damage (10x): 1,320
+Rapid Fire		Longbow  	weapon	Combo Finisher: Projectile (20% chance)
+Hunter's Shot		Longbow 	weapon	Damage: 141
+Hunter's Shot		Longbow 	weapon	Vulnerability: 8 s
+Hunter's Shot		Longbow 	weapon	Swiftness: (pet) 10 s
+Hunter's Shot		Longbow 	weapon	Combo Finisher: Projectile
+Point Blank Shot		Longbow 	weapon	Damage: 282
+Point Blank Shot		Longbow 	weapon	Knockback: 400
+Point Blank Shot		Longbow 	weapon	Knockback: 500
+Point Blank Shot		Longbow 	weapon	Knockback: 600
+Point Blank Shot		Longbow 	weapon	Combo Finisher: Projectile
+Barrage		Longbow 	weapon	Damage (12x): 1,692
+Barrage		Longbow 	weapon	Crippled: 1 s
+Barrage		Longbow 	weapon	
+Crossfire		Shortbow 	weapon	Damage: 134
+Crossfire		Shortbow 	weapon	Bleeding: 3 s
+Crossfire		Shortbow 	weapon	Combo Finisher: Projectile (20% chance)
+Poison Volley		Shortbow 	weapon	Damage (5x): 170
+Poison Volley		Shortbow 	weapon	Poison: 2 s
+Quick Shot		Shortbow 	weapon	Damage: 118
+Quick Shot		Shortbow 	weapon	Swiftness: 3 s
+Quick Shot		Shortbow 	weapon	Combo Finisher: Projectile
+Crippling Shot		Shortbow 	weapon	Damage: 118
+Crippling Shot		Shortbow 	weapon	Crippled: 3 s
+Crippling Shot		Shortbow 	weapon	Bleeding: 6 s
+Crippling Shot		Shortbow 	weapon	Combo Finisher: Projectile
+Concussion Shot		Shortbow 	weapon	Damage: 118
+Concussion Shot		Shortbow 	weapon	Daze: 1 s
+Concussion Shot		Shortbow 	weapon	Stun: 1 s
+Concussion Shot		Shortbow 	weapon	Combo Finisher: Projectile
+Slash (ranger sword skill)		Main hand sword  	weapon	Damage: 202
+Kick (ranger skill)		Main hand sword  	weapon	Damage: 202
+Kick (ranger skill)		Main hand sword  	weapon	Crippled: 2 s
+Pounce		Main hand sword  	weapon	Damage: 235
+Pounce		Main hand sword  	weapon	Might: 5 s
+Hornet Sting		Main hand sword 	weapon	Damage: 235
+Monarch's Leap		Main hand sword 	weapon	Damage: 336
+Monarch's Leap		Main hand sword 	weapon	Crippled: 3 s
+Monarch's Leap		Main hand sword 	weapon	Combo Finisher: Leap
+Serpent's Strike		Main hand sword 	weapon	Damage: 235
+Serpent's Strike		Main hand sword 	weapon	Poison: 6 s
+Ricochet		Main hand axe 	weapon	Damage: 168
+Ricochet		Main hand axe 	weapon	
+Ricochet		Main hand axe 	weapon	Combo Finisher: Projectile (20% chance)
+Splitblade		Main hand axe 	weapon	Damage (5x): 170
+Splitblade		Main hand axe 	weapon	Bleeding: 6 s
+Splitblade		Main hand axe 	weapon	Combo Finisher: Projectile (20% chance)
+Winter's Bite		Main hand axe 	weapon	Damage: 168
+Winter's Bite		Main hand axe 	weapon	Chilled: 3 s
+Path of Scars		Off-hand axe 	weapon	Damage: 235
+Path of Scars		Off-hand axe 	weapon	Combo Finisher: Projectile
+Whirling Defense		Off-hand axe  	weapon	Vulnerability: 10 s
+Whirling Defense		Off-hand axe  	weapon	Damage (12x): 1,008
+Whirling Defense		Off-hand axe  	weapon	
+Stalker's Strike		Off-hand dagger 	weapon	Damage: 67
+Stalker's Strike		Off-hand dagger 	weapon	Poison: 10 s
+Crippling Talon		Off-hand dagger 	weapon	Damage: 252
+Crippling Talon		Off-hand dagger 	weapon	Crippled: 6 s
+Crippling Talon		Off-hand dagger 	weapon	Bleeding: 8 s
+Crippling Talon		Off-hand dagger 	weapon	Combo Finisher: Projectile
+Throw Torch		Torch 	weapon	Damage: 151
+Throw Torch		Torch 	weapon	Burning: 6 s
+Bonfire		Torch 	weapon	
+Bonfire		Torch 	weapon	Damage (8x): 256
+Bonfire		Torch 	weapon	Burning: 1 s
+Bonfire		Torch 	weapon	
+Hunter's Call		Warhorn 	weapon	Damage (16x): 576
+Call of the Wild		Warhorn 	weapon	Fury: 15 s
+Call of the Wild		Warhorn 	weapon	Might: 15 s
+Call of the Wild		Warhorn 	weapon	Swiftness: 15 s
+Call of the Wild		Warhorn 	weapon	
+Splinter Shot		Harpoon gun 	weapon	Damage: 34
+Splinter Shot		Harpoon gun 	weapon	Bleeding: 3 s
+Splinter Shot		Harpoon gun 	weapon	
+Coral Shot		Harpoon gun 	weapon	Damage: 34
+Coral Shot		Harpoon gun 	weapon	Bleeding: 5 s
+Coral Shot		Harpoon gun 	weapon	Crippled: 3 s
+Feeding Frenzy (ranger skill)		Harpoon gun 	weapon	Damage (10x): 1,340
+Feeding Frenzy (ranger skill)		Harpoon gun 	weapon	Fury: 5 s
+Mercy Shot		Harpoon gun 	weapon	Damage: 269
+Stab (ranger skill)		Spear  	weapon	Damage: 269
+Jab (ranger skill)		Spear  	weapon	Damage: 302
+Evasive Strike (ranger skill)		Spear  	weapon	Damage: 336
+Swirling Strike		Spear 	weapon	Damage: 202
+Dart		Spear 	weapon	Damage: 252
+Dart		Spear 	weapon	Vulnerability: 10 s
+Dart		Spear 	weapon	Bleeding: 10 s
+Counterstrike		Spear 	weapon	Damage: 504
+Counter Throw		Spear 	weapon	Damage: 252
+Counter Throw		Spear 	weapon	Combo Finisher: Projectile
+Man O' War		Spear 	weapon	Damage: 202
+Man O' War		Spear 	weapon	Damage: 67
+Man O' War		Spear 	weapon	Immobilized: 2 s
+Healing Spring			Healing 	Healing: 4,920
+Healing Spring			Healing 	Regeneration: 3 s
+Healing Spring			Healing 	
+Healing Spring			Healing 	
+Troll Unguent			Healing 	Health per second: 856
+"Guard"			Utility 	
+"Sick 'Em"			Utility 	
+Frost Spirit			Utility 	
+Stone Spirit			Utility 	Protection: 1 s
+Quicksand			Utility 	Immobilized: 2 s (at start)
+Storm Spirit			Utility 	Swiftness: 3 s
+Sun Spirit			Utility 	Burning: 1 s
+Lightning Reflexes			Utility 	Vigor: 10 s
+Lightning Reflexes			Utility 	Damage: 244
+Muddy Terrain			Utility 	Immobilized: 2 s (at creation)
+Muddy Terrain			Utility 	Crippled: 1 s (per pulse)
+Muddy Terrain			Utility 	
+Sharpening Stone			Utility 	Bleeding: 6 s
+Flame Trap			Utility 	Damage: 73 (per pulse)
+Flame Trap			Utility 	Burning: 1 s  (per pulse)
+Flame Trap			Utility 	
+Flame Trap			Utility 	
+Flame Trap			Utility 	
+Frost Trap			Utility 	Chilled: 1 s (per second)
+Frost Trap			Utility 	
+Frost Trap			Utility 	
+Frost Trap			Utility 	
+Spike Trap			Utility 	Bleeding: 5 s
+Spike Trap			Utility 	Damage: 49
+Spike Trap			Utility 	Crippled: 2 s
+Spike Trap			Utility 	
+Viper's Nest			Utility 	Poison: 3 s  (per pulse)
+Viper's Nest			Utility 	
+Viper's Nest			Utility 	
+Entangle			Elite 	
+Entangle			Elite 	Damage: 49
+Entangle			Elite 	Bleeding: 8 s
+Entangle			Elite 	Immobilized: 1 s
+Rampage As One			Elite 	Stability: 20 s
+Rampage As One			Elite 	Fury: 20 s
+Rampage As One			Elite 	Swiftness: 20 s
+Spirit of Nature			Elite 	
+Throw Dirt			Downed 	Bleeding: 5 s
+Throw Dirt			Downed 	Damage: 92
+Thunderclap			Downed Drowning 	Damage: 369
+Thunderclap			Downed Drowning 	Daze: 1 s
+Thunderclap			Downed Drowning 	Damage: 369
+Thunderclap			Downed Drowning 	Daze: 1 s
+Mind Wrack			Profession mechanic 	Damage: 280 (1 illusion)
+Mind Wrack			Profession mechanic 	Damage (2x): 378 (2 illusions)
+Mind Wrack			Profession mechanic 	Damage (3x): 492 (3 illusions)
+Cry of Frustration			Profession mechanic 	Confusion: 3 s
+Cry of Frustration			Profession mechanic 	Damage: 80
+Diversion			Profession mechanic 	Daze: 1 s
+Distortion			Profession mechanic 	Distortion: 1 s
+Spatial Surge		Greatsword  	weapon	Damage < 300 (3x): 201
+Spatial Surge		Greatsword  	weapon	Damage 300-600 (3x): 249
+Spatial Surge		Greatsword  	weapon	Damage 600-900 (3x): 300
+Spatial Surge		Greatsword  	weapon	Damage > 900 (3x): 348
+Mirror Blade		Greatsword 	weapon	Damage: 259
+Mirror Blade		Greatsword 	weapon	Might: 10 s
+Mirror Blade		Greatsword 	weapon	Vulnerability: 3 s
+Mirror Blade		Greatsword 	weapon	
+Mirror Blade		Greatsword 	weapon	Combo Finisher: Projectile
+Mind Stab (mesmer greatsword skill)		Greatsword 	weapon	Damage: 314
+Mind Stab (mesmer greatsword skill)		Greatsword 	weapon	
+Mind Stab (mesmer greatsword skill)		Greatsword 	weapon	
+Phantasmal Berserker		Greatsword 	weapon	Crippled: 2 s
+Phantasmal Berserker		Greatsword 	weapon	Damage: 259
+Illusionary Wave		Greatsword 	weapon	Damage: 111
+Illusionary Wave		Greatsword 	weapon	Knockback: 450
+Winds of Chaos		Staff 	weapon	Damage: 111
+Winds of Chaos		Staff 	weapon	Burning: 1 s
+Winds of Chaos		Staff 	weapon	Bleeding: 7 s
+Winds of Chaos		Staff 	weapon	Vulnerability: 5 s
+Winds of Chaos		Staff 	weapon	Might: 5 s
+Winds of Chaos		Staff 	weapon	Fury: 2 s
+Winds of Chaos		Staff 	weapon	
+Phase Retreat		Staff 	weapon	Combo Finisher: Leap
+Phantasmal Warlock		Staff 	weapon	Damage: 74
+Phantasmal Warlock		Staff 	weapon	
+Chaos Armor		Staff 	weapon	
+Chaos Armor		Staff 	weapon	Protection: 5 s
+Chaos Armor		Staff 	weapon	Regeneration: 3 s
+Chaos Armor		Staff 	weapon	Swiftness: 3 s
+Chaos Armor		Staff 	weapon	Confusion: 3 s
+Chaos Armor		Staff 	weapon	Crippled: 3 s
+Chaos Armor		Staff 	weapon	Blind: 3 s
+Chaos Storm		Staff 	weapon	Damage: 122
+Chaos Storm		Staff 	weapon	Poison: 2 s
+Chaos Storm		Staff 	weapon	Weakness: 2 s
+Chaos Storm		Staff 	weapon	Chilled: 1 s
+Chaos Storm		Staff 	weapon	Daze: 1 s
+Chaos Storm		Staff 	weapon	Swiftness: 3 s
+Chaos Storm		Staff 	weapon	Retaliation: 3 s
+Chaos Storm		Staff 	weapon	Aegis: 3 s
+Chaos Storm		Staff 	weapon	Combo Field: Ethereal
+Ether Bolt		Scepter 	weapon	Damage: 168
+Ether Blast		Scepter 	weapon	Damage: 168
+Ether Clone		Scepter 	weapon	Damage: 252
+Illusionary Counter		Scepter 	weapon	
+Illusionary Counter		Scepter 	weapon	Damage: 672
+Counterspell		Scepter 	weapon	Blind: 5 s
+Counterspell		Scepter 	weapon	Damage: 34
+Confusing Images		Scepter  	weapon	Damage (5x): 840
+Confusing Images		Scepter  	weapon	Confusion: 5 s
+Mind Slash		Main hand sword 	weapon	Damage: 202
+Mind Slash		Main hand sword 	weapon	Vulnerability: 5 s
+Mind Gash		Main hand sword 	weapon	Damage: 202
+Mind Gash		Main hand sword 	weapon	Vulnerability: 5 s
+Mind Stab (mesmer sword skill)		Main hand sword 	weapon	Damage: 336
+Blurred Frenzy		Main hand sword  	weapon	Damage (8x): 808
+Blurred Frenzy		Main hand sword  	weapon	Distortion: 2 s
+Illusionary Leap		Main hand sword 	weapon	Damage: 1
+Illusionary Leap		Main hand sword 	weapon	Crippled: 1 s
+Illusionary Leap		Main hand sword 	weapon	Combo Finisher: Leap
+Swap		Main hand sword 	weapon	Immobilized: 2 s
+Swap		Main hand sword 	weapon	Combo Finisher: Leap
+Illusionary Riposte		Off-hand sword 	weapon	
+Counter Blade		Off-hand sword 	weapon	Daze: 1 s
+Counter Blade		Off-hand sword 	weapon	Damage: 34
+Phantasmal Swordsman		Off-hand sword 	weapon	Damage: 672
+Phantasmal Swordsman		Off-hand sword 	weapon	Combo Finisher: Leap
+Temporal Curtain		Focus 	weapon	Crippled: 5 s
+Temporal Curtain		Focus 	weapon	Swiftness: 10 s
+Temporal Curtain		Focus 	weapon	Combo Field: Light
+Phantasmal Warden		Focus 	weapon	Damage: 30
+Phantasmal Duelist		Off-hand pistol 	weapon	Damage (8x): 200
+Phantasmal Duelist		Off-hand pistol 	weapon	Combo Finisher: Projectile (20% chance)
+Magic Bullet		Off-hand pistol 	weapon	Damage: 67
+Magic Bullet		Off-hand pistol 	weapon	Blind: 5 s
+Magic Bullet		Off-hand pistol 	weapon	Daze: 2 s
+Magic Bullet		Off-hand pistol 	weapon	Stun: 2 s
+Magic Bullet		Off-hand pistol 	weapon	
+Magic Bullet		Off-hand pistol 	weapon	Combo Finisher: Projectile
+The Prestige		Torch 	weapon	Stealth: 3 s
+The Prestige		Torch 	weapon	Damage: 151
+The Prestige		Torch 	weapon	Blind: 5 s
+The Prestige		Torch 	weapon	Burning: 3 s
+The Prestige		Torch 	weapon	
+Phantasmal Mage		Torch 	weapon	Damage: 363
+Phantasmal Mage		Torch 	weapon	Confusion: 9 s
+Phantasmal Mage		Torch 	weapon	Retaliation: 3 s
+Stab (mesmer skill)		Spear 	weapon	Damage: 269
+Jab (mesmer skill)		Spear 	weapon	Damage: 269
+Evasive Strike (mesmer skill)		Spear 	weapon	Damage: 269
+Feigned Surge		Spear 	weapon	Damage: 202
+Illusionary Mariner		Spear 	weapon	Damage per strike: 168
+Illusionary Mariner		Spear 	weapon	Final strike damage: 504
+Vortex		Spear 	weapon	Damage: 134
+Siren's Call		Trident 	weapon	Damage: 101
+Siren's Call		Trident 	weapon	Might: 5 s
+Siren's Call		Trident 	weapon	Swiftness: 2 s
+Siren's Call		Trident 	weapon	Vigor: 2 s
+Siren's Call		Trident 	weapon	
+Ineptitude		Trident 	weapon	Damage: 269
+Ineptitude		Trident 	weapon	Blind: 4 s
+Spinning Revenge		Trident 	weapon	Retaliation: 3 s
+Illusionary Whaler		Trident 	weapon	Damage per strike: 25
+Illusionary Whaler		Trident 	weapon	Bleeding: 5 s
+Illusion of Drowning		Trident 	weapon	Sink: 2 s
+Illusion of Drowning		Trident 	weapon	Damage (6x): 402
+Ether Feast			Healing 	Healing: 5,560
+Mirror			Healing 	Healing: 3,915
+Decoy			Utility 	
+Decoy			Utility 	Breaks stun
+Mirror Images			Utility 	Breaks stun
+Feedback			Utility 	
+Feedback			Utility 	Combo Field: Ethereal
+Null Field			Utility 	
+Null Field			Utility 	Combo Field: Ethereal
+Veil			Utility 	Stealth: 3 s
+Veil			Utility 	
+Veil			Utility 	Combo Field: Light
+Blink			Utility 	Breaks stun
+Illusion of Life			Utility 	
+Power Break			Utility 	Stability: 2 s
+Power Break			Utility 	Breaks stun
+Power Lock			Utility 	Daze: 1 s
+Power Spike			Utility 	Damage: 324
+Phantasmal Defender			Utility 	Damage: 122
+Phantasmal Disenchanter			Utility 	Damage: 122
+Signet of Domination			Utility 	Stun: 2 s
+Signet of Inspiration			Utility 	Regeneration: 5 s
+Signet of Inspiration			Utility 	Aegis: 10 s
+Signet of Inspiration			Utility 	Retaliation: 5 s
+Signet of Inspiration			Utility 	Protection: 3 s
+Signet of Inspiration			Utility 	Swiftness: 5 s
+Signet of Inspiration			Utility 	Might: 20 s
+Signet of Inspiration			Utility 	Fury: 5 s
+Signet of Inspiration			Utility 	Vigor: 5 s
+Signet of Midnight			Utility 	
+Signet of Midnight			Utility 	Blind: 3 s
+Signet of Midnight			Utility 	
+Signet of Midnight			Utility 	Breaks stun
+Mass Invisibility			Elite 	Stealth: 5 s
+Moa Morph			Elite 	
+Time Warp			Elite 	Quickness: 1 s
+Time Warp			Elite 	
+Time Warp			Elite 	Combo Field: Ethereal
+Mind Blast			Downed Drowning 	Damage: 202
+Mind Blast			Downed Drowning 	Confusion: 5 s
+Phantasmal Rogue			Downed Drowning 	Damage: 806
+Phantasmal Rogue			Downed Drowning 	
+Mind Blast			Downed Drowning 	Damage: 202
+Mind Blast			Downed Drowning 	Confusion: 5 s
+Phantasmal Rogue			Downed Drowning 	Damage: 806
+Phantasmal Rogue			Downed Drowning 	
+Trick Shot		Shortbow 	weapon	Damage: 185
+Trick Shot		Shortbow 	weapon	
+Trick Shot		Shortbow 	weapon	Combo Finisher: Projectile (20% chance)
+Surprise Shot		Shortbow 	weapon	Damage: 202
+Surprise Shot		Shortbow 	weapon	Immobilized: 2 s
+Surprise Shot		Shortbow 	weapon	Combo Finisher: Projectile
+Cluster Bomb		Shortbow 	weapon	Large explosion: 487
+Cluster Bomb		Shortbow 	weapon	Small explosion: 168
+Cluster Bomb		Shortbow 	weapon	Bleeding: 4 s
+Cluster Bomb		Shortbow 	weapon	Combo Finisher: Blast
+Disabling Shot (thief shortbow skill)		Shortbow 	weapon	Damage: 168
+Disabling Shot (thief shortbow skill)		Shortbow 	weapon	Crippled: 2 s
+Disabling Shot (thief shortbow skill)		Shortbow 	weapon	Combo Finisher: Projectile
+Choking Gas		Shortbow 	weapon	Poison: 5 s
+Choking Gas		Shortbow 	weapon	
+Choking Gas		Shortbow 	weapon	
+Choking Gas		Shortbow 	weapon	Combo Field: Poison
+Infiltrator's Arrow		Shortbow 	weapon	Blind: 5 s
+Infiltrator's Arrow		Shortbow 	weapon	
+Slice (thief skill)		Main hand sword  	weapon	Damage: 269
+Slash (thief skill)		Main hand sword  	weapon	Damage: 269
+Crippling Strike		Main hand sword  	weapon	Damage: 437
+Crippling Strike		Main hand sword  	weapon	Crippled: 2 s
+Crippling Strike		Main hand sword  	weapon	Weakness: 2 s
+Tactical Strike		Main hand sword 	weapon	Damage: 302
+Tactical Strike		Main hand sword 	weapon	Blind: 5 s
+Tactical Strike		Main hand sword 	weapon	Daze: 2 s
+Infiltrator's Strike		Main hand sword 	weapon	Damage: 252
+Infiltrator's Strike		Main hand sword 	weapon	Immobilized: 1 s
+Shadow Return		Main hand sword 	weapon	Breaks stun
+Stab (thief sword skill)		Main hand sword 	weapon	Damage: 336
+Flanking Strike (thief dual skill)		Main hand sword Off-hand dagger 	weapon	Damage: 252
+Flanking Strike (thief dual skill)		Main hand sword Off-hand dagger 	weapon	Second strike damage: 504
+Pistol Whip		Main hand sword Off-hand pistol 	weapon	Damage (9x): 1,026
+Pistol Whip		Main hand sword Off-hand pistol 	weapon	Stun: ½ s
+Double Strike		Main hand dagger  	weapon	Damage (2x): 188
+Wild Strike		Main hand dagger  	weapon	Damage: 286
+Wild Strike		Main hand dagger  	weapon	
+Lotus Strike		Main hand dagger  	weapon	Damage: 286
+Lotus Strike		Main hand dagger  	weapon	Poison: 2 s
+Backstab		Main hand dagger 	weapon	Front damage: 403
+Backstab		Main hand dagger 	weapon	Back damage: 806
+Heartseeker		Main hand dagger 	weapon	100%-50%: 336
+Heartseeker		Main hand dagger 	weapon	50%-25%: 504
+Heartseeker		Main hand dagger 	weapon	25%-0%: 672
+Heartseeker		Main hand dagger 	weapon	Combo Finisher: Leap
+Twisting Fangs		Main hand dagger 	weapon	Damage: 101
+Twisting Fangs		Main hand dagger 	weapon	Bleeding: 10 s
+Shadow Shot		Main hand dagger Off-hand pistol 	weapon	Blind: 5 s
+Shadow Shot		Main hand dagger Off-hand pistol 	weapon	Damage: 420
+Shadow Shot		Main hand dagger Off-hand pistol 	weapon	Combo Finisher: Projectile
+Death Blossom		Main hand dagger Off-hand dagger 	weapon	Damage (3x): 201
+Death Blossom		Main hand dagger Off-hand dagger 	weapon	Bleeding: 10 s
+Death Blossom		Main hand dagger Off-hand dagger 	weapon	Combo Finisher: Whirl
+Dancing Dagger		Off-hand dagger 	weapon	Damage: 336
+Dancing Dagger		Off-hand dagger 	weapon	
+Dancing Dagger		Off-hand dagger 	weapon	Crippled: 5 s
+Dancing Dagger		Off-hand dagger 	weapon	Combo Finisher: Projectile
+Cloak and Dagger		Off-hand dagger 	weapon	Damage: 504
+Cloak and Dagger		Off-hand dagger 	weapon	Stealth: 3 s
+Cloak and Dagger		Off-hand dagger 	weapon	Vulnerability: 5 s
+Vital Shot		Main hand pistol 	weapon	Damage: 134
+Vital Shot		Main hand pistol 	weapon	Bleeding: 4 s
+Vital Shot		Main hand pistol 	weapon	Combo Finisher: Projectile (20% chance)
+Sneak Attack		Main hand pistol 	weapon	Damage (5x): 405
+Sneak Attack		Main hand pistol 	weapon	Bleeding: 4 s
+Sneak Attack		Main hand pistol 	weapon	Combo Finisher: Projectile
+Body Shot		Main hand pistol 	weapon	Damage: 168
+Body Shot		Main hand pistol 	weapon	Vulnerability: 6 s
+Body Shot		Main hand pistol 	weapon	Combo Finisher: Projectile
+Repeater		Main hand pistol 	weapon	Damage (5x): 405
+Repeater		Main hand pistol 	weapon	
+Repeater		Main hand pistol 	weapon	Combo Finisher: Projectile (20% chance)
+Shadow Strike		Main hand pistol Off-hand dagger 	weapon	Damage: 101
+Unload		Main hand pistol Off-hand pistol 	weapon	Damage: 101
+Unload		Main hand pistol Off-hand pistol 	weapon	
+Unload		Main hand pistol Off-hand pistol 	weapon	Combo Finisher: Projectile (20% chance)
+Headshot		Off-hand pistol 	weapon	Damage: 84
+Headshot		Off-hand pistol 	weapon	Daze: ¼ s
+Headshot		Off-hand pistol 	weapon	Combo Finisher: Projectile
+Black Powder		Off-hand pistol 	weapon	Damage: 84
+Black Powder		Off-hand pistol 	weapon	
+Black Powder		Off-hand pistol 	weapon	Combo Field: Smoke
+Black Powder		Off-hand pistol 	weapon	Combo Finisher: Projectile
+Piercing Shot		Harpoon gun 	weapon	Damage: 87
+Piercing Shot		Harpoon gun 	weapon	Bleeding: 4 s
+Piercing Shot		Harpoon gun 	weapon	Combo Finisher: Projectile
+The Ripper		Harpoon gun 	weapon	Damage: 84
+The Ripper		Harpoon gun 	weapon	Bleeding: 5 s
+The Ripper		Harpoon gun 	weapon	Combo Finisher: Projectile (20% chance)
+Deluge		Harpoon gun 	weapon	Damage: 208
+Deluge		Harpoon gun 	weapon	
+Deluge		Harpoon gun 	weapon	Combo Finisher: Projectile (20% chance)
+Escape		Harpoon gun 	weapon	Damage: 349
+Escape		Harpoon gun 	weapon	Poison: 1 s
+Escape		Harpoon gun 	weapon	Combo Finisher: Projectile
+Disabling Shot (thief harpoon gun skill)		Harpoon gun 	weapon	Damage: 263
+Disabling Shot (thief harpoon gun skill)		Harpoon gun 	weapon	Crippled: 5 s
+Disabling Shot (thief harpoon gun skill)		Harpoon gun 	weapon	Combo Finisher: Projectile
+Ink Shot		Harpoon gun 	weapon	Damage: 264
+Ink Shot		Harpoon gun 	weapon	Blind: 3 s
+Stab (thief spear skill)		Spear 	weapon	Damage: 269
+Jab (thief skill)		Spear 	weapon	Damage: 302
+Poison Tip Strike		Spear 	weapon	Damage: 370
+Poison Tip Strike		Spear 	weapon	Poison: 3 s
+Deadly Strike		Spear 	weapon	Damage: 336
+Deadly Strike		Spear 	weapon	Bleeding: 10 s
+Deadly Strike		Spear 	weapon	Weakness: 4 s
+Flanking Strike (thief spear skill)		Spear 	weapon	Damage: 571
+Flanking Strike (thief spear skill)		Spear 	weapon	Vulnerability: 5 s
+Tow Line		Spear 	weapon	Damage: 168
+Tow Line		Spear 	weapon	Crippled: 3 s
+Shadow Assault		Spear 	weapon	Damage: 269
+Shadow Assault		Spear 	weapon	
+Hide in Shadows			Healing 	Healing: 5,240
+Hide in Shadows			Healing 	Regeneration: 4 s
+Signet of Malice			Healing 	Healing: 100 (passive)
+Blinding Powder			Utility 	Blind: 5 s
+Blinding Powder			Utility 	Stealth: 3 s
+Shadow Refuge			Utility 	Stealth: 3 s
+Shadow Refuge			Utility 	Healing: 1,420
+Shadow Refuge			Utility 	Combo Field: Dark
+Shadowstep			Utility 	Breaks stun
+Shadow Return (Shadowstep)			Utility 	Breaks stun
+Smoke Screen			Utility 	
+Smoke Screen			Utility 	Blind: 1 s
+Assassin's Signet			Utility 	
+Infiltrator's Signet			Utility 	
+Infiltrator's Signet			Utility 	Breaks stun
+Signet of Agility			Utility 	Level + 10) Precision
+Signet of Shadows			Utility 	Blind: 5 s
+Signet of Shadows			Utility 	
+Needle Trap			Utility 	Poison: 6 s
+Needle Trap			Utility 	Immobilized: 3 s
+Needle Trap			Utility 	Damage: 81
+Needle Trap			Utility 	
+Tripwire			Utility 	Knockdown: 3 s
+Tripwire			Utility 	Damage: 73
+Caltrops			Utility 	
+Caltrops			Utility 	Bleeding: 3 s
+Caltrops			Utility 	Crippled: 10 s
+Haste			Utility 	Quickness: 4 s
+Roll for Initiative			Utility 	
+Scorpion Wire			Utility 	Damage: 122
+Scorpion Wire			Utility 	Combo Finisher: Projectile
+Devourer Venom			Utility 	Immobilized: 2 s
+Ice Drake Venom			Utility 	Chilled: 1 s
+Ice Drake Venom			Utility 	
+Skale Venom			Utility 	Vulnerability: 5 s
+Skale Venom			Utility 	Weakness: 5 s
+Skale Venom			Utility 	
+Spider Venom			Utility 	Poison: 6 s
+Basilisk Venom			Elite 	
+Dagger Storm			Elite  	Damage: 244
+Dagger Storm			Elite  	Crippled: 2 s
+Dagger Storm			Elite  	
+Dagger Storm			Elite  	Bleeding: 5 s
+Dagger Storm			Elite  	Stability: 8 s
+Dagger Storm			Elite  	Combo Finisher: Whirl
+Trail of Knives			Downed 	Damage: 134
+Trail of Knives			Downed 	
+Trail of Knives			Downed 	Crippled: 1 s
+Venomous Knife			Downed 	Damage:  ?
+Venomous Knife			Downed 	Bleeding: 8 s
+Venomous Knife			Downed 	Poison: 8 s
+Smoke Bomb (thief skill)			Downed 	Stealth: 2 s
+Diving Knife			Drowning 	Damage: 21
+Diving Knife			Drowning 	Bleeding: 6 s
+Cheap Shot			Drowning 	Damage: unknown
+Cheap Shot			Drowning 	Push: 240
+Life Blast			Death Shroud 	Damage: 235
+Life Blast			Death Shroud 	Damage: 470
+Dark Path			Death Shroud 	Damage: 84
+Dark Path			Death Shroud 	Chilled: 5 s
+Dark Path			Death Shroud 	Bleeding: 5 s
+Doom			Death Shroud 	Fear: 1 s
+Life Transfer			Death Shroud  	Damage (9x): 549
+Life Transfer			Death Shroud  	Life force: 3%
+Life Transfer			Death Shroud  	
+Life Blast (underwater)			Death Shroud 	Damage: 235
+Dark Water			Death Shroud 	Damage: 139
+Dark Water			Death Shroud 	Blind: 3 s
+Dark Water			Death Shroud 	Poison: 7 s
+Wave of Fear			Death Shroud 	Damage: 278
+Wave of Fear			Death Shroud 	Fear: 2 s
+Gathering Plague			Death Shroud 	Weakness: 5 s
+Necrotic Grasp		Staff 	weapon	Damage: 246
+Necrotic Grasp		Staff 	weapon	Life force: 3%
+Necrotic Grasp		Staff 	weapon	Combo Finisher: Projectile (20% chance)
+Mark of Blood		Staff 	weapon	Damage: 111
+Mark of Blood		Staff 	weapon	Regeneration: 5 s
+Mark of Blood		Staff 	weapon	Bleeding: 8 s
+Mark of Blood		Staff 	weapon	
+Chilblains		Staff 	weapon	Damage: 185
+Chilblains		Staff 	weapon	Chilled: 4 s
+Chilblains		Staff 	weapon	Poison: 6 s
+Chilblains		Staff 	weapon	
+Chilblains		Staff 	weapon	Combo Field: Poison
+Putrid Mark		Staff 	weapon	Damage: 444
+Putrid Mark		Staff 	weapon	
+Putrid Mark		Staff 	weapon	Combo Finisher: Blast
+Reaper's Mark		Staff 	weapon	Damage: 92
+Reaper's Mark		Staff 	weapon	Fear: 1 s
+Reaper's Mark		Staff 	weapon	
+Rending Claws		Main hand axe 	weapon	Damage (2x): 236
+Rending Claws		Main hand axe 	weapon	Vulnerability: 5 s
+Ghastly Claws		Main hand axe  	weapon	Damage (8x): 808
+Ghastly Claws		Main hand axe  	weapon	
+Ghastly Claws		Main hand axe  	weapon	Life force: 4%
+Unholy Feast		Main hand axe 	weapon	Damage: 269
+Unholy Feast		Main hand axe 	weapon	Retaliation: 3 s
+Unholy Feast		Main hand axe 	weapon	Crippled: 5 s
+Blood Curse		Scepter  	weapon	Damage: 118
+Blood Curse		Scepter  	weapon	Bleeding: 4 s
+Rending Curse		Scepter  	weapon	Damage: 118
+Rending Curse		Scepter  	weapon	Bleeding: 4 s
+Putrid Curse		Scepter  	weapon	Damage: 168
+Putrid Curse		Scepter  	weapon	Poison: 2 s
+Grasping Dead		Scepter 	weapon	Damage: 235
+Grasping Dead		Scepter 	weapon	Crippled: 5 s
+Grasping Dead		Scepter 	weapon	Bleeding: 7 s
+Grasping Dead		Scepter 	weapon	
+Feast of Corruption		Scepter 	weapon	Damage: 371
+Feast of Corruption		Scepter 	weapon	Life force: 2%
+Feast of Corruption		Scepter 	weapon	
+Necrotic Slash		Main hand dagger  	weapon	Damage (2x): 302
+Necrotic Stab		Main hand dagger  	weapon	Damage: 235
+Necrotic Stab		Main hand dagger  	weapon	Life force: 2%
+Necrotic Bite		Main hand dagger  	weapon	Damage: 403
+Necrotic Bite		Main hand dagger  	weapon	Life force: 4%
+Life Siphon		Main hand dagger  	weapon	Damage (9x): 909
+Life Siphon		Main hand dagger  	weapon	Healing: 202 per pulse
+Dark Pact		Main hand dagger 	weapon	Damage: 252
+Dark Pact		Main hand dagger 	weapon	Immobilized: 3 s
+Deathly Swarm		Off-hand dagger 	weapon	Damage: 208
+Deathly Swarm		Off-hand dagger 	weapon	
+Deathly Swarm		Off-hand dagger 	weapon	Blind: 6 s
+Enfeebling Blood		Off-hand dagger 	weapon	Damage: 168
+Enfeebling Blood		Off-hand dagger 	weapon	Weakness: 10 s
+Enfeebling Blood		Off-hand dagger 	weapon	Bleeding: 10 s
+Enfeebling Blood		Off-hand dagger 	weapon	
+Reaper's Touch		Focus 	weapon	Damage: 151
+Reaper's Touch		Focus 	weapon	Regeneration: 3 s
+Reaper's Touch		Focus 	weapon	Vulnerability: 10 s
+Reaper's Touch		Focus 	weapon	
+Reaper's Touch		Focus 	weapon	Life force: 3%
+Spinal Shivers		Focus 	weapon	Damage: 151
+Spinal Shivers		Focus 	weapon	Chilled: 5 s
+Wail of Doom		Warhorn 	weapon	Daze: 2 s
+Locust Swarm		Warhorn 	weapon	Damage: 60
+Locust Swarm		Warhorn 	weapon	Crippled: 1 s
+Locust Swarm		Warhorn 	weapon	Swiftness: 10 s
+Locust Swarm		Warhorn 	weapon	
+Cruel Strike		Spear  	weapon	Damage: 269
+Wicked Strike		Spear  	weapon	Damage: 286
+Reaper's Scythe		Spear  	weapon	Damage: 336
+Reaper's Scythe		Spear  	weapon	Life force: 3%
+Wicked Spiral		Spear 	weapon	Damage: 168
+Wicked Spiral		Spear 	weapon	Vulnerability: 6 s
+Wicked Spiral		Spear 	weapon	
+Deadly Feast		Spear 	weapon	Damage: 134
+Deadly Feast		Spear 	weapon	Healing: 69
+Deadly Feast		Spear 	weapon	Swiftness: 6 s
+Deadly Catch		Spear 	weapon	Damage: 252
+Deadly Catch		Spear 	weapon	Crippled: 3 s
+Deadly Catch		Spear 	weapon	Combo Finisher: Whirl
+Dark Spear		Spear 	weapon	Damage: 302
+Dark Spear		Spear 	weapon	Bleeding: 8 s
+Crimson Tide		Trident 	weapon	Damage: 84
+Crimson Tide		Trident 	weapon	Bleeding: 5 s
+Feast		Trident 	weapon	Damage: 243
+Feast		Trident 	weapon	Weakness: 5 s
+Feast		Trident 	weapon	Life force: 5%
+Foul Current		Trident 	weapon	Poison: 4 s
+Sinking Tomb		Trident 	weapon	
+Frozen Abyss		Trident 	weapon	Damage: 1,008
+Frozen Abyss		Trident 	weapon	Chilled: 1 s
+Frozen Abyss		Trident 	weapon	Vulnerability: 7 s
+Consume Conditions			Healing 	Healing: 5,240
+Summon Blood Fiend			Healing 	Damage: 239
+Summon Blood Fiend			Healing 	Healing: 238
+Well of Blood			Healing 	Initial self heal: 5,240
+Well of Blood			Healing 	
+Well of Blood			Healing 	Healing: 152 per second
+Blood is Power			Utility 	Damage: 130
+Blood is Power			Utility 	Might: 12 s
+Blood is Power			Utility 	Bleeding: 30 s
+Blood is Power			Utility 	Self bleeding: 10 s
+Corrosive Poison Cloud			Utility 	
+Corrosive Poison Cloud			Utility 	Poison: 5 s
+Corrosive Poison Cloud			Utility 	Weakness: 10 s
+Corrosive Poison Cloud			Utility 	Self weakness: 6 s
+Corrosive Poison Cloud			Utility 	
+Corrosive Poison Cloud			Utility 	Combo Field: Poison
+Corrupt Boon			Utility 	Self poison: 6 s
+Epidemic			Utility 	Self vulnerability: 6 s
+Epidemic			Utility 	
+Summon Bone Fiend			Utility 	Damage (2x): 572
+Rigor Mortis			Utility 	Damage (2x): 716
+Putrid Explosion			Utility 	Damage: 1,592
+Putrid Explosion			Utility 	
+Summon Flesh Wurm			Utility 	Damage: 833
+Necrotic Traversal			Utility 	Poison: 5 s
+Necrotic Traversal			Utility 	
+Necrotic Traversal			Utility 	Life force: 10%
+Necrotic Traversal			Utility 	Breaks stun
+Necrotic Traversal			Utility 	Combo Finisher: Blast
+Haunt			Utility 	Damage: 525
+Haunt			Utility 	Blind: 3 s
+Haunt			Utility 	
+Plague Signet			Utility 	
+Plague Signet			Utility 	Breaks stun
+Signet of Spite			Utility 	Damage: 263
+Signet of Spite			Utility 	Blind: 3 s
+Signet of Spite			Utility 	Bleeding: 5 s
+Signet of Spite			Utility 	Crippled: 5 s
+Signet of Spite			Utility 	Poison: 5 s
+Signet of Spite			Utility 	Vulnerability: 5 s
+Signet of Spite			Utility 	Weakness: 5 s
+Signet of the Locust			Utility 	
+Signet of the Locust			Utility 	Damage: 158
+Signet of the Locust			Utility 	Healing: 778
+Signet of the Locust			Utility 	
+Signet of Undeath			Utility 	Life force: 1% per 3 seconds
+Signet of Undeath			Utility 	
+Spectral Armor			Utility 	Protection: 6 s
+Spectral Armor			Utility 	Life Force when taking damage.
+Spectral Grasp			Utility 	Chilled: 3 s
+Spectral Grasp			Utility 	Life force: 10%
+Spectral Walk			Utility 	Swiftness: 30 s
+Spectral Wall			Utility 	
+Spectral Wall			Utility 	Vulnerability: 10 s
+Spectral Wall			Utility 	Protection: 5 s
+Spectral Wall			Utility 	Combo Field: Ethereal
+Well of Corruption			Utility 	Damage (5x): 610
+Well of Corruption			Utility 	
+Well of Corruption			Utility 	
+Well of Corruption			Utility 	
+Well of Darkness			Utility 	
+Well of Darkness			Utility 	
+Well of Darkness			Utility 	Blind: 3 s
+Well of Darkness			Utility 	
+Well of Power			Utility 	
+Well of Power			Utility 	
+Well of Power			Utility 	
+Well of Suffering			Utility 	Damage (5x): 1,220
+Well of Suffering			Utility 	
+Well of Suffering			Utility 	Vulnerability: 5 s
+Well of Suffering			Utility 	
+Well of Suffering			Utility 	
+Plague			Elite 	Damage: 75
+Plague			Elite 	Poison: 1 s
+Plague			Elite 	
+Summon Flesh Golem			Elite 	Damage: 770
+Charge (necromancer skill)			Elite 	Damage: 1,444
+Life Leech			Downed Drowning  	Damage: 69
+Life Leech			Downed Drowning  	Healing: 92
+Fear (necromancer skill)			Downed 	Fear: 2 s
+Fetid Ground			Downed 	Poison: 3 s
+Life Leech			Downed Drowning  	Damage: 69
+Life Leech			Downed Drowning  	Healing: 92
+Deathly Claws			skill	Damage: 981
+Marked for Death			skill	Damage: 409
+Marked for Death			skill	Vulnerability: 10 s
+Marked for Death			skill	
+Chilling Wind			skill	Damage: 409
+Chilling Wind			skill	Knockback: 300
+Chilling Wind			skill	Chilled: 3 s
+Mark of Horror			skill	
+Grim Specter			skill	Damage: 654
+Grim Specter			skill	
+Withering Plague			skill	Bleeding: 2 s
+Withering Plague			skill	Poison: 1 s
+Plague of Darkness			skill	Blind: 1 s
+Plague of Darkness			skill	Poison: 1 s
+Pain Inverter	asura		Utility  Tool belt skill   Pain Transference 	Retaliation: 5 s Reflect incoming damage back to the source.
+Pain Inverter	asura		Utility  Tool belt skill   Pain Transference 	Confusion: 5 s  X Damage on Skill Use
+Radiation Field	asura		Utility  Tool belt skill   Vent Radiation 	Poison: 3 s
+Radiation Field	asura		Utility  Tool belt skill   Vent Radiation 	Weakness: 3 s
+Radiation Field	asura		Utility  Tool belt skill   Vent Radiation 	Combo Field: Poison
+Technobabble	asura		Utility  Tool belt skill   Confusing Speech 	Daze: 2 s
+Summon Power Suit	asura		Elite 	
+Punch (Hazmat Suit skill)	asura		skill	Damage: X
+Launch Fist	asura		skill	Damage:  ??
+Whirling Assault	asura		skill	Damage: X
+Whirling Assault	asura		skill	Push: 300
+Battle Roar	charr		Utility  Tool belt skill   Invigorating Roar 	Might: 15 s
+Battle Roar	charr		Utility  Tool belt skill   Invigorating Roar 	Fury: 6 s
+Hidden Pistol	charr		Utility  Tool belt skill   Hidden Pistols 	Damage:  ?
+Hidden Pistol	charr		Utility  Tool belt skill   Hidden Pistols 	Combo Finisher: Projectile
+Shrapnel Mine	charr		Utility  Tool belt skill   Booby Trap (charr skill) 	
+Shrapnel Mine	charr		Utility  Tool belt skill   Booby Trap (charr skill) 	Bleeding: 20 s
+Shrapnel Mine	charr		Utility  Tool belt skill   Booby Trap (charr skill) 	Crippled: 5 s
+Artillery Barrage	charr		Elite 	
+Fire Rocket	charr		skill	Damage: -
+Fire Rocket	charr		skill	Burning: 2 s
+Fire Rocket	charr		skill	Range: 1,200
+Rocket Spray	charr		skill	Damage: -
+Rocket Spray	charr		skill	Burning: 2 s
+Rocket Spray	charr		skill	
+Rocket Spray	charr		skill	Range: 1,200
+Heat Seeker	charr		skill	Damage: -
+Heat Seeker	charr		skill	Burning: 5 s
+Heat Seeker	charr		skill	Range: 1,200
+Rocket Jump	charr		skill	Damage: -
+Rocket Jump	charr		skill	
+Rocket Jump	charr		skill	Burning: 1 s
+Rocket Jump	charr		skill	Range: 240
+Avatar of Melandru	human		Elite 	
+Reaper of Grenth	human		Elite 	Chilled: 3 s
+Reaper of Grenth	human		Elite 	Poison: 3 s
+Reaper of Grenth	human		Elite 	
+Oakheart Swipe	human		skill	Damage: X
+Oakheart Swipe	human		skill	Vulnerability: 8 s
+Roar of the Forest	human		skill	Protection: 5 s
+Summon Healing Spring	human		skill	Healing: X
+Call Owl	norn		Utility  Tool belt skill   Eat Owl Egg 	Damage: unknown
+Call Owl	norn		Utility  Tool belt skill   Eat Owl Egg 	Bleeding: 20 s
+Crippling Swipe	norn		skill	Damage: -
+Crippling Swipe	norn		skill	Crippled: 2 s
+Wind Blast (Become the Raven)	norn		skill	Damage: -
+Wind Blast (Become the Raven)	norn		skill	Knockback: 300
+Swoop (Become the Raven)	norn		skill	Damage: -
+Shriek	norn		skill	Damage: -
+Shriek	norn		skill	Daze: 3 s
+Rending Talons	norn		skill	Damage: -
+Rending Talons	norn		skill	Bleeding: 6 s
+Frenzy (Become the Snow Leopard)	norn		skill	Damage: -
+Growl (Become the Snow Leopard)	norn		skill	Damage: -
+Growl (Become the Snow Leopard)	norn		skill	Weakness: 5 s
+Pounce (Become the Snow Leopard)	norn		skill	Damage: -
+Pounce (Become the Snow Leopard)	norn		skill	Crippled: 10 s
+Dash (Become the Snow Leopard)	norn		skill	Damage: -
+Rending Slash (Become the Wolf)	norn		skill	Damage: -
+Rending Swipe	norn		skill	Damage: -
+Blood Frenzy	norn		skill	Damage:
+Blood Frenzy	norn		skill	Healing:
+Snarl (Become the Wolf)	norn		skill	Damage:
+Howl (Become the Wolf)	norn		skill	Fury: 10 s
+Howl (Become the Wolf)	norn		skill	Regeneration: 10 s
+Howl (Become the Wolf)	norn		skill	Blowout: 100
+Howl (Become the Wolf)	norn		skill	
+Healing Seed	sylvari		Healing  Tool belt skill   Leafy Bandage 	Range: 240
+Healing Seed	sylvari		Healing  Tool belt skill   Leafy Bandage 	Regeneration: 3 s
+Seed Turret	sylvari		Utility  Tool belt skill   Throw Vine 	Damage: 30
